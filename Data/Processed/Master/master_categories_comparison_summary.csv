@@ -1,0 +1,69 @@
+﻿Dataset_File,Product_Category,Item_Count,Total_Dataset_Rows
+boavizta_essential_metrics.csv,Workplace,1110,1226
+boavizta_essential_metrics.csv,Datacenter,71,1226
+boavizta_essential_metrics.csv,Home,45,1226
+energystar_essential_metrics.csv,Residential_Refrigerator,4781,13257
+energystar_essential_metrics.csv,Monitor_Display,2855,13257
+energystar_essential_metrics.csv,Commercial_Refrigerator_Freezer,1936,13257
+energystar_essential_metrics.csv,Computer_Laptop_Desktop,1802,13257
+energystar_essential_metrics.csv,Dishwasher,738,13257
+energystar_essential_metrics.csv,Room_Air_Conditioner,552,13257
+energystar_essential_metrics.csv,Clothes_Washer,410,13257
+energystar_essential_metrics.csv,Television,183,13257
+epeat_essential_metrics.csv,Computers & Displays,75677,88876
+epeat_essential_metrics.csv,Imaging Equipment,9986,88876
+epeat_essential_metrics.csv,Servers,2052,88876
+epeat_essential_metrics.csv,Network Equipment,384,88876
+epeat_essential_metrics.csv,Televisions,304,88876
+epeat_essential_metrics.csv,Mobile Phones,283,88876
+epeat_essential_metrics.csv,Photovoltaic Modules and Inverters,190,88876
+french_repairability_essential_metrics.csv,ordinateur portable,3580,4815
+french_repairability_essential_metrics.csv,Lave-vaisselle,604,4815
+french_repairability_essential_metrics.csv,Aspirateur non filaire,203,4815
+french_repairability_essential_metrics.csv,Aspirateur filaire,196,4815
+french_repairability_essential_metrics.csv,Nettoyeur haute pression,76,4815
+french_repairability_essential_metrics.csv,Lave-linge à chargement par le haut (ou Lave-linge top),67,4815
+french_repairability_essential_metrics.csv,Lave-linge à chargement frontal (ou Lave-linge hublot),29,4815
+french_repairability_essential_metrics.csv,Aspirateur robot,18,4815
+french_repairability_essential_metrics.csv,Smartphone,13,4815
+french_repairability_essential_metrics.csv,Tondeuse ŕ gazon électrique batterie,10,4815
+french_repairability_essential_metrics.csv,Tondeuse à gazon électrique robot,9,4815
+french_repairability_essential_metrics.csv,Tondeuse ŕ gazon électrique robot,6,4815
+french_repairability_essential_metrics.csv,Lave-linge ŕ chargement par le haut (ou Lave-linge top),3,4815
+french_repairability_essential_metrics.csv,Tondeuse à gazon électrique batterie,1,4815
+ifixit_essential_metrics.csv,Smartphones,155,342
+ifixit_essential_metrics.csv,Tablets,65,342
+ifixit_essential_metrics.csv,Laptops,63,342
+ifixit_essential_metrics.csv,Wireless Earbuds,13,342
+ifixit_essential_metrics.csv,Portable Wireless Speakers,11,342
+ifixit_essential_metrics.csv,E-Readers,10,342
+ifixit_essential_metrics.csv,Smartwatches,10,342
+ifixit_essential_metrics.csv,Handheld Game Consoles,8,342
+ifixit_essential_metrics.csv,Mini PCs,7,342
+tco_certified_essential_metrics.csv,"TCO Certified, generation 10, for displays",1881,4271
+tco_certified_essential_metrics.csv,TCO Certified Edge Displays,820,4271
+tco_certified_essential_metrics.csv,TCO Certified Displays 9,674,4271
+tco_certified_essential_metrics.csv,"TCO Certified, generation 10, for notebooks",428,4271
+tco_certified_essential_metrics.csv,TCO Certified Notebooks 9,107,4271
+tco_certified_essential_metrics.csv,"TCO Certified, generation 10, for desktops ",106,4271
+tco_certified_essential_metrics.csv,TCO Certified Headsets 9,65,4271
+tco_certified_essential_metrics.csv,TCO Certified Desktops 9,50,4271
+tco_certified_essential_metrics.csv,"TCO Certified, generation 10, for headsets",43,4271
+tco_certified_essential_metrics.csv,"TCO Certified, generation 10, for all-in-one PCs",21,4271
+tco_certified_essential_metrics.csv,TCO Certified Projectors 9,19,4271
+tco_certified_essential_metrics.csv,TCO Certified All-in-One PCs 9,15,4271
+tco_certified_essential_metrics.csv,"TCO Certified, generation 10, general",14,4271
+tco_certified_essential_metrics.csv,TCO Certified Edge All-in-one computers,12,4271
+tco_certified_essential_metrics.csv,TCO Certified Edge All-in-One PCs,7,4271
+tco_certified_essential_metrics.csv,TCO Certified Tablets 9,4,4271
+tco_certified_essential_metrics.csv,"TCO Certified, generation 10, for tablets",2,4271
+tco_certified_essential_metrics.csv,TCO Certified Servers 9,2,4271
+tco_certified_essential_metrics.csv,"TCO Certified, generation 10, for smartphones",1,4271
+erpel_displays_essential_metrics.csv,Television,24783,37475
+erpel_displays_essential_metrics.csv,Monitor,10376,37475
+erpel_displays_essential_metrics.csv,Signage,1412,37475
+erpel_displays_essential_metrics.csv,Other,626,37475
+erpel_displays_essential_metrics.csv,Professional display,278,37475
+erpel_dishwashers_essential_metrics.csv,Dishwashers (EU ERPEL),14600,14600
+erpel_refrigerators_essential_metrics.csv,Refrigerating Appliances (EU ERPEL),56471,56471
+erpel_washingmachines_essential_metrics.csv,Washing Machines (EU ERPEL),22657,22657

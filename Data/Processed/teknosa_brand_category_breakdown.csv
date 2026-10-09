@@ -1,0 +1,207 @@
+Category,Brand_Clean,Product_Count,Category_Total,Category_Share_%
+A/C Units,BOSCH,28,138,20.3
+A/C Units,DAIKIN,15,138,10.9
+A/C Units,SAMSUNG,11,138,8.0
+A/C Units,SIGMA,7,138,5.1
+A/C Units,ARCELIK,6,138,4.3
+A/C Units,AIRFEL,5,138,3.6
+A/C Units,ECA,5,138,3.6
+A/C Units,LG,5,138,3.6
+A/C Units,BAYMAK,4,138,2.9
+A/C Units,BEKO,4,138,2.9
+A/C Units,DAYLUX,4,138,2.9
+A/C Units,DEMIRDOKUM,4,138,2.9
+A/C Units,DIJITSU,4,138,2.9
+A/C Units,MIDEA,4,138,2.9
+A/C Units,VAILLANT,4,138,2.9
+A/C Units,YORK,4,138,2.9
+A/C Units,ALTUS,3,138,2.2
+A/C Units,FUJITSU,3,138,2.2
+A/C Units,KAIRA,3,138,2.2
+A/C Units,TROTEC,3,138,2.2
+A/C Units,KUMTEL,2,138,1.4
+A/C Units,MITSUBISHI,2,138,1.4
+A/C Units,VIESSMANN,2,138,1.4
+A/C Units,FINLUX,1,138,0.7
+A/C Units,FUJIPLUS,1,138,0.7
+A/C Units,SEG,1,138,0.7
+A/C Units,TCL,1,138,0.7
+A/C Units,VALS,1,138,0.7
+A/C Units,VESTEL,1,138,0.7
+Dishwasher,BOSCH,18,82,22.0
+Dishwasher,SAMSUNG,12,82,14.6
+Dishwasher,LG,8,82,9.8
+Dishwasher,ALTUS,6,82,7.3
+Dishwasher,HOOVER,6,82,7.3
+Dishwasher,BEKO,5,82,6.1
+Dishwasher,GRUNDIG,4,82,4.9
+Dishwasher,HAFELE,4,82,4.9
+Dishwasher,SIEMENS,4,82,4.9
+Dishwasher,TEKA,4,82,4.9
+Dishwasher,ELECTROLUX,3,82,3.7
+Dishwasher,DIJITSU,2,82,2.4
+Dishwasher,FINLUX,2,82,2.4
+Dishwasher,TOMMATECH,2,82,2.4
+Dishwasher,ARCELIK,1,82,1.2
+Dishwasher,HAIER,1,82,1.2
+Headphones,JBL,25,140,17.9
+Headphones,LINKTECH,16,140,11.4
+Headphones,SONY,8,140,5.7
+Headphones,DIESEL,7,140,5.0
+Headphones,QCY,7,140,5.0
+Headphones,SHAZA,6,140,4.3
+Headphones,SKULLCANDY,6,140,4.3
+Headphones,SUDIO,6,140,4.3
+Headphones,APPLE,5,140,3.6
+Headphones,BASKENTTEKNO,5,140,3.6
+Headphones,REEDER,5,140,3.6
+Headphones,AKG,4,140,2.9
+Headphones,BLACK SHARK,4,140,2.9
+Headphones,ICLEVER,4,140,2.9
+Headphones,JABRA,3,140,2.1
+Headphones,LENOVO,2,140,1.4
+Headphones,POLY,2,140,1.4
+Headphones,PREO,2,140,1.4
+Headphones,REALME,2,140,1.4
+Headphones,SNOPY,2,140,1.4
+Headphones,XIAOMI,2,140,1.4
+Headphones,AGGIY,1,140,0.7
+Headphones,ANKER,1,140,0.7
+Headphones,BASEUS,1,140,0.7
+Headphones,BELKIN,1,140,0.7
+Headphones,CELLULAR LINE,1,140,0.7
+Headphones,DYSON,1,140,0.7
+Headphones,FRISBY,1,140,0.7
+Headphones,HIFUTURE,1,140,0.7
+Headphones,MARSHALL,1,140,0.7
+Headphones,MEGATECH,1,140,0.7
+Headphones,PIONEER,1,140,0.7
+Headphones,RAZER,1,140,0.7
+Headphones,SENNHEISER,1,140,0.7
+Headphones,SOUNDPEATS,1,140,0.7
+Headphones,SPRANGE,1,140,0.7
+Headphones,TRIBIT,1,140,0.7
+Headphones,TTEC,1,140,0.7
+Laptop,LENOVO,42,140,30.0
+Laptop,HP,34,140,24.3
+Laptop,ASUS,22,140,15.7
+Laptop,MSI,22,140,15.7
+Laptop,DELL,18,140,12.9
+Laptop,ACER,2,140,1.4
+Monitor,MSI,19,140,13.6
+Monitor,LENOVO,18,140,12.9
+Monitor,PHILIPS,18,140,12.9
+Monitor,DELL,15,140,10.7
+Monitor,ASUS,14,140,10.0
+Monitor,DAHUA,9,140,6.4
+Monitor,HP,8,140,5.7
+Monitor,SAMSUNG,6,140,4.3
+Monitor,BENQ,4,140,2.9
+Monitor,TECHNOPC,4,140,2.9
+Monitor,GAMERAIDER,3,140,2.1
+Monitor,LG,3,140,2.1
+Monitor,NOVACOM,2,140,1.4
+Monitor,SENSEI,2,140,1.4
+Monitor,VIEWSONIC,2,140,1.4
+Monitor,AOC,1,140,0.7
+Monitor,ARZOPA,1,140,0.7
+Monitor,ATOMOS,1,140,0.7
+Monitor,CBOX,1,140,0.7
+Monitor,DEXIM,1,140,0.7
+Monitor,FAZEON,1,140,0.7
+Monitor,GIGABYTE,1,140,0.7
+Monitor,NPC,1,140,0.7
+Monitor,POWER BOOST,1,140,0.7
+Monitor,RAMPAGE,1,140,0.7
+Monitor,SUNCOM,1,140,0.7
+Monitor,TURBOX,1,140,0.7
+Monitor,XIAOMI,1,140,0.7
+Refrigerator,ALTUS,31,140,22.1
+Refrigerator,ELEKTROMARLA,16,140,11.4
+Refrigerator,SAMSUNG,13,140,9.3
+Refrigerator,GRUNDIG,12,140,8.6
+Refrigerator,BEKO,10,140,7.1
+Refrigerator,TEKA,10,140,7.1
+Refrigerator,FRANKE,8,140,5.7
+Refrigerator,LG,7,140,5.0
+Refrigerator,DIJITSU,6,140,4.3
+Refrigerator,HOOVER,6,140,4.3
+Refrigerator,ELECTROLUX,4,140,2.9
+Refrigerator,BOSCH,3,140,2.1
+Refrigerator,HAFELE,3,140,2.1
+Refrigerator,TOMMATECH,3,140,2.1
+Refrigerator,LIEBHERR,2,140,1.4
+Refrigerator,ARCELIK,1,140,0.7
+Refrigerator,LA SOMMELIERE,1,140,0.7
+Refrigerator,ONVO,1,140,0.7
+Refrigerator,REGAL,1,140,0.7
+Refrigerator,VESTEL,1,140,0.7
+Refrigerator,YUI,1,140,0.7
+Robot Vacuum,ROBOROCK,26,117,22.2
+Robot Vacuum,PHILIPS,16,117,13.7
+Robot Vacuum,DREAME,15,117,12.8
+Robot Vacuum,MOVA,6,117,5.1
+Robot Vacuum,XIAOMI,6,117,5.1
+Robot Vacuum,ECOVACS,4,117,3.4
+Robot Vacuum,EZVIZ,4,117,3.4
+Robot Vacuum,HOMEND,4,117,3.4
+Robot Vacuum,KARCHER,4,117,3.4
+Robot Vacuum,CECOTEC,3,117,2.6
+Robot Vacuum,DYSON,3,117,2.6
+Robot Vacuum,HUTT,3,117,2.6
+Robot Vacuum,TEFAL,3,117,2.6
+Robot Vacuum,FAKIR,2,117,1.7
+Robot Vacuum,LYDSTO,2,117,1.7
+Robot Vacuum,SAMSUNG,2,117,1.7
+Robot Vacuum,XENON SMART,2,117,1.7
+Robot Vacuum,ANKER,1,117,0.9
+Robot Vacuum,BEKO,1,117,0.9
+Robot Vacuum,DEERMA,1,117,0.9
+Robot Vacuum,DJI,1,117,0.9
+Robot Vacuum,GRUNDIG,1,117,0.9
+Robot Vacuum,HUSSA,1,117,0.9
+Robot Vacuum,IROBOT,1,117,0.9
+Robot Vacuum,SIMART,1,117,0.9
+Robot Vacuum,TCL,1,117,0.9
+Robot Vacuum,TORIMA,1,117,0.9
+Robot Vacuum,TP-LINK,1,117,0.9
+Robot Vacuum,VIOMI,1,117,0.9
+Television,SAMSUNG,29,122,23.8
+Television,LG,24,122,19.7
+Television,TCL,21,122,17.2
+Television,GRUNDIG,17,122,13.9
+Television,ONVO,10,122,8.2
+Television,PHILIPS,7,122,5.7
+Television,THOMSON,6,122,4.9
+Television,DIJITSU,3,122,2.5
+Television,AXEN,2,122,1.6
+Television,BEKO,1,122,0.8
+Television,PREO,1,122,0.8
+Television,TOSHIBA,1,122,0.8
+Vacuum Cleaner,POPULER,120,142,84.5
+Vacuum Cleaner,ROBOTYEDEK,6,142,4.2
+Vacuum Cleaner,KUHLER,3,142,2.1
+Vacuum Cleaner,BISSELL,2,142,1.4
+Vacuum Cleaner,KARCHER,2,142,1.4
+Vacuum Cleaner,NILFISK,2,142,1.4
+Vacuum Cleaner,PHILIPS,2,142,1.4
+Vacuum Cleaner,ARNICA,1,142,0.7
+Vacuum Cleaner,HOMEND,1,142,0.7
+Vacuum Cleaner,HZL STORE,1,142,0.7
+Vacuum Cleaner,SIMART,1,142,0.7
+Vacuum Cleaner,SINBO,1,142,0.7
+Washing Machine,SAMSUNG,17,72,23.6
+Washing Machine,ELECTROLUX,13,72,18.1
+Washing Machine,LG,8,72,11.1
+Washing Machine,BOSCH,7,72,9.7
+Washing Machine,HOOVER,7,72,9.7
+Washing Machine,BEKO,6,72,8.3
+Washing Machine,ARCELIK,3,72,4.2
+Washing Machine,ALTUS,2,72,2.8
+Washing Machine,GRUNDIG,2,72,2.8
+Washing Machine,TEKA,2,72,2.8
+Washing Machine,HAFELE,1,72,1.4
+Washing Machine,PROFILO,1,72,1.4
+Washing Machine,REGAL,1,72,1.4
+Washing Machine,SIEMENS,1,72,1.4
+Washing Machine,VESTFROST,1,72,1.4

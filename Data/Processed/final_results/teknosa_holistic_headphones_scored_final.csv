@@ -1,0 +1,70 @@
+Brand,Model_Name,Headphone_Sustainability_Score,Confidence_Score_Pct,Score_Repairability,Score_Certifications,Score_Transparency
+Lenovo,LB310,69.0,50.0,14.0,40,15
+Jabra,OTE995,69.0,50.0,14.0,40,15
+SteelSeries,"HS39 (Headset), HS39TX (Transceiver)",69.0,50.0,14.0,40,15
+SteelSeries,"HS32 (Headset), HS32TX (Transceiver)",69.0,50.0,14.0,40,15
+SteelSeries,"HS25, HS-25 (headsets) HS25TX, HS25TXX (Transceiver)",69.0,50.0,14.0,40,15
+Jabra,HSC260W,69.0,50.0,14.0,40,15
+Logitech,A00191,69.0,50.0,14.0,40,15
+Jabra,HSC250W,69.0,50.0,14.0,40,15
+Jabra,HSC240W,69.0,50.0,14.0,40,15
+Logitech,"A00197, AR0002",69.0,50.0,14.0,40,15
+Logitech,AU0001,69.0,50.0,14.0,40,15
+Lenovo,LB520NC,69.0,50.0,14.0,40,15
+Lenovo,LB310NC,69.0,50.0,14.0,40,15
+HP,PBF620F,69.0,50.0,14.0,40,15
+HP,PBF620,69.0,50.0,14.0,40,15
+HP,"PUM410, PUM420",69.0,50.0,14.0,40,15
+HP,"PUM610, PUM620",69.0,50.0,14.0,40,15
+HP,"PUM810, PUM820",69.0,50.0,14.0,40,15
+Jabra,HSC230W,69.0,50.0,14.0,40,15
+Jabra,HSC210W,69.0,50.0,14.0,40,15
+Lenovo,L120,69.0,50.0,14.0,40,15
+Lenovo,L5000,69.0,50.0,14.0,40,15
+Jabra,OTE990,69.0,50.0,14.0,40,15
+Jabra,HSC200,69.0,50.0,14.0,40,15
+Poly,"WH500, WH500A, WH500S, C540, C540A",69.0,50.0,14.0,40,15
+Poly,"S7310T, S7310T/A, S7310T/S, S7320T, S7320T/A, S7320T/S",69.0,50.0,14.0,40,15
+Poly,"W8210T, W8210T/A, W8210T/S, W8220T, W8220T/A, W8220T/S",69.0,50.0,14.0,40,15
+Poly,"S8240T, S8240T/A, S8240T/S",69.0,50.0,14.0,40,15
+Poly,PBVL50,69.0,50.0,14.0,40,15
+Poly,"EP515, EP515-M, EP525, EP525-M, EP545",69.0,50.0,14.0,40,15
+Poly,"VS80T, VS85T",69.0,50.0,14.0,40,15
+Logitech,A00184,69.0,50.0,14.0,40,15
+Jabra,Engage *5,69.0,50.0,14.0,40,15
+Jabra,Biz 2300,69.0,50.0,14.0,40,15
+Jabra,HSC190W,69.0,50.0,14.0,40,15
+Jabra,HSC175,69.0,50.0,14.0,40,15
+Jabra,HSC170W,69.0,50.0,14.0,40,15
+Jabra,"OTE140L, OTE140R",69.0,50.0,14.0,40,15
+Jabra,HSC16*,69.0,50.0,14.0,40,15
+Jabra,HSC160,69.0,50.0,14.0,40,15
+Jabra,HSC110W,69.0,50.0,14.0,40,15
+Jabra,HSC150W,69.0,50.0,14.0,40,15
+Jabra,HSC120W,69.0,50.0,14.0,40,15
+Jabra,HSC140,69.0,50.0,14.0,40,15
+Jabra,HSC130,69.0,50.0,14.0,40,15
+Fairphone,Fairbuds,60.0,50.0,40.0,10,10
+Samsung,Galaxy Buds Live,52.0,50.0,32.0,10,10
+Sony,WF-1000XM4,48.0,50.0,28.0,10,10
+Marshall,Emberton III,48.0,50.0,28.0,10,10
+Monster,S620,44.0,50.0,24.0,10,10
+Amazon,Echo Buds,40.0,50.0,20.0,10,10
+Sony,Sony WF-1000XM3,40.0,50.0,20.0,10,10
+Anker,Soundcore Select 4 Go,40.0,50.0,20.0,10,10
+JBL,Go 4,40.0,50.0,20.0,10,10
+Microsoft,Surface Earbuds,36.0,50.0,16.0,10,10
+JBL,Flip 6,36.0,50.0,16.0,10,10
+Bang & Olufsen,Beosound Explore,36.0,50.0,16.0,10,10
+Google,Pixel Buds A-Series,32.0,50.0,12.0,10,10
+Sony,SRS-XB23,32.0,50.0,12.0,10,10
+Samsung,Galaxy Buds3,28.0,50.0,8.0,10,10
+Google,Pixel Buds Pro,28.0,50.0,8.0,10,10
+Logitech,UE Wonderboom 4,28.0,50.0,8.0,10,10
+Bang & Olufsen,Beoplay Eleven,24.0,50.0,4.0,10,10
+Sonos,Roam 2,24.0,50.0,4.0,10,10
+Anker,Soundcore 2,24.0,50.0,4.0,10,10
+Apple,AirPods 4,20.0,50.0,0.0,10,10
+JBL,Vibe 200TWS,20.0,50.0,0.0,10,10
+Apple,AirPods Pro,20.0,50.0,0.0,10,10
+Bose,Soundlink Flex 2,20.0,50.0,0.0,10,10

@@ -1,0 +1,1073 @@
+﻿iFixit_Device_Category,iFixit_Release_Order,iFixit_Brand,iFixit_Model_Name,iFixit_Release_Year,iFixit_Repair_Summary,iFixit_Repairability_Score,iFixit_Note,iFixit_Scorecard_Version
+Smartphones,155.0,Google,Pixel 9,2024,"+ Screen repairs are prioritized, and all other parts are under the back glass—which doesn’t require heat to remove.
++ Google supports their phones with free, comprehensive service manuals and a wide selection of replacement parts.
+- The battery is stubbornly glued down, and USB-C port repairs require removing the fragile display.
+- No clips or fasteners secure the screen or back glass—you’ll need to source replacement adhesive for every repair.",5,,2.0
+Smartphones,154.0,Google,Pixel 9 Pro,2024,"+ Screen repairs are prioritized, and all other parts are under the back glass—which doesn’t require heat to remove.
++ Google supports their phones with free, comprehensive service manuals and a wide selection of replacement parts.
+- The battery is stubbornly glued down, and USB-C port repairs require removing the fragile display.
+- No clips or fasteners secure the screen or back glass—you’ll need to source replacement adhesive for every repair.",5,,2.0
+Smartphones,153.0,Google,Pixel 9 Pro XL,2024,"+ Screen repairs are prioritized, and all other parts are under the back glass—which doesn’t require heat to remove.
++ Google supports their phones with free, comprehensive service manuals and a wide selection of replacement parts.
+- The battery is stubbornly glued down, and USB-C port repairs require removing the fragile display.
+- No clips or fasteners secure the screen or back glass—you’ll need to source replacement adhesive for every repair.",5,,2.0
+Smartphones,152.0,Google,Pixel 9 Pro Fold,2024,"+ Getting repairs started is easier thanks to outer display and back glass adhesives that release without heat.
++ Google provides a free, comprehensive service manual, replacement parts, and software calibration tools for end users.
+- All repairs require carefully de-gluing (and later re-gluing) the outer display and/or back cover.
+- Foldable smartphone repairs in general present challenges due to the inherent complexity of the product.",4,,2.0
+Smartphones,151.0,Apple,iPhone 16,2024,"+ Great design prioritizes screen repairs while giving access to all other parts through the back glass.
++ A novel electrically-releasing adhesive streamlines battery replacements.
+- Four different screw types and the continued reliance on adhesives complicate basic repairs.",7,,1.9
+Smartphones,150.0,Apple,iPhone 16 Plus,2024,"+ Great design prioritizes screen repairs while giving access to all other parts through the back glass.
++ A novel electrically-releasing adhesive streamlines battery replacements.
+- Four different screw types and the continued reliance on adhesives complicate basic repairs.",7,,1.9
+Smartphones,149.0,Apple,iPhone 16 Pro,2024,"+ Great design prioritizes screen repairs while giving access to all other parts through the back glass.
++ Screws and clips aid reassembly, whether you replace the adhesives or not.
+- Four different screw types and the continued reliance on adhesives complicate basic repairs.",7,,1.9
+Smartphones,148.0,Apple,iPhone 16 Pro Max,2024,"""+ Great design prioritizes screen repairs while giving access to all other parts through the back glass.
++ Screws and clips aid reassembly, whether you replace the adhesives or not.
+- Four different screw types and the continued reliance on adhesives complicate basic repairs.""",7,,1.9
+Smartphones,147.0,HMD,Skyline,2024,"+ Getting the device open is easy thanks to a novel camshaft mechanism.
++ Screen and battery repairs are well-prioritized.
++ HMD support offers replacement parts and repair instructions for common repairs.
+- Battery adhesive, though mild, requires some extra effort to clean and replace during a repair.",9,,1.9
+Smartphones,146.0,Google,Pixel Fold,2023,"+ Google provides a free, comprehensive service manual.
++ Genuine replacement parts and software calibration tools are available for end users.
+- All repairs require carefully de-gluing (and later re-gluing) the outer display and/or back cover.
+- Foldable smartphone repairs in general present challenges due to the inherent complexity of the product.",3,,1.7
+Smartphones,145.0,Google,Pixel 8,2023,"+ Google provides a free public service manual and offers OEM replacement parts for common repairs.
++ The display is well-prioritized, and secures with clips even when replacement adhesive isn’t available.
+The battery is stubbornly glued down, and the soldered charge port can’t be easily replaced.",6,,1.6
+Smartphones,144.0,Google,Pixel 8 Pro,2023,"+ Google provides a free public service manual and offers OEM replacement parts for common repairs.
++ The display is well-prioritized, and secures with clips even when replacement adhesive isn’t available.
+The battery is stubbornly glued down, and the soldered charge port can’t be easily replaced.",6,,1.6
+Smartphones,143.0,Apple,iPhone 15,2023,"+ Great design prioritizes screen repairs while giving access to all other parts thru the back glass.
++ Screws and clips aid reassembly, whether you replace the adhesives or not.
+- DIY repairs are hobbled by pervasive parts pairing and deterrent messaging.",7,Revised,1.6
+Smartphones,142.0,Apple,iPhone 15 Plus,2023,"+ Great design prioritizes screen repairs while giving access to all other parts thru the back glass.
++ Screws and clips aid reassembly, whether you replace the adhesives or not.
+- DIY repairs are hobbled by pervasive parts pairing and deterrent messaging.",7,Revised,1.6
+Smartphones,141.0,Apple,iPhone 15 Pro,2023,"+ Display and battery replacements remain a priority in the design.
++ Previously irreplaceable back glass is now immediately replaceable.
+- Proprietary screws and parts pairing can foil many repairs.",7,Revised,1.6
+Smartphones,140.0,Apple,iPhone 15 Pro Max,2023,"+ Display and battery replacements remain a priority in the design.
++ Previously irreplaceable back glass is now immediately replaceable.
+- Proprietary screws and parts pairing can foil many repairs.",7,Revised,1.6
+Smartphones,139.0,Fairphone,5,2023,"+ Easy to disassemble/reassemble with basic tools—no adhesive blocks the way.
++ End users can replace the battery in a few seconds.
++ Fairphone provides a DIY service manual and offers original replacement parts.",10,,1.6
+Smartphones,138.0,Google,Pixel 7a,2023,"• Google offers a free service manual and a limited set of replacement parts.
+• The screen and back cover are well-prioritized for repair, but secured only with adhesive.
+- The glued-down battery can be tough to access, and the soldered charge port is impractical to repair.",5,,1.6
+Smartphones,137.0,Nokia,G22,2023,"+ Easily pried open for repairs, with no adhesive mess.
++ Battery replacements are well-prioritized in the design.
++ Nokia supplies parts & guides for four of the most common repairs.
+- Screen repairs are do-able, but not well prioritized.",8,,1.6
+Smartphones,136.0,Samsung,Galaxy S23 Ultra,2023,"+ Standard Phillips screws throughout the phone.
+- The battery is still strongly glued down—the new pull tab helps only marginally.
+- Screen repairs require a lot of disassembly while battling tough adhesive.",4,Provisional,1.6
+Smartphones,135.0,Google,Pixel 7,2022,"+ Clips securing the display make for reliable reassembly, even when replacement adhesive isn’t available.
+• Google provides no service manual, but does offer a limited set of replacement parts.
+- The soldered charge port and fragile back glass are impractical to repair.",5,,1.6
+Smartphones,134.0,Google,Pixel 7 Pro,2022,"+ Clips securing the display make for reliable reassembly, even when replacement adhesive isn’t available.
+- The glued-down battery can be tough to access, and the soldered charge port is impractical to repair.
+• Google provides no service manual, but does offer a limited set of replacement parts.",5,,1.6
+Smartphones,133.0,Apple,iPhone 14,2022,"+ Display and battery replacements remain a priority in the design.
++ Previously irreplaceable back glass is now immediately replaceable.
+- Proprietary screws and parts pairing can foil many repairs.",4,Revised,1.6
+Smartphones,132.0,Apple,iPhone 14 Plus,2022,"+ Display and battery replacements remain a priority in the design.
++ Previously irreplaceable back glass is now immediately replaceable.
+- Proprietary screws and parts pairing can foil many repairs.",4,Revised,1.4
+Smartphones,131.0,Apple,iPhone 14 Pro,2022,"+ Display and battery replacements remain a priority in the design.
++ Most other components are modular and straightforward to access or replace.
+- Unlike in the non-Pro models, there’s still no good way to replace the rear glass.",4,Revised,1.4
+Smartphones,130.0,Apple,iPhone 14 Pro Max,2022,"+ Display and battery replacements remain a priority in the design.
++ Most other components are modular and straightforward to access or replace.
+- Unlike in the non-Pro models, there’s still no good way to replace the rear glass.",4,Revised,1.4
+Smartphones,129.0,Google,Pixel 6a,2022,"+ Display and battery repairs are well-prioritized, but complicated by reliance on adhesives.
+- The soldered charge port and glued back glass are impractical to repair.
+• Google provides no service manual, but does offer a limited set of replacement parts.",5,,1.6
+Smartphones,128.0,Samsung,Galaxy S22,2022,"+ Standard Phillips screws throughout the phone.
+- The battery is strongly glued and requires extensive disassembly to service.
+- Screen repairs require a lot of disassembly while battling tough adhesive.",3,,1.4
+Smartphones,127.0,Samsung,Galaxy S22 Ultra,2022,"+ Standard Phillips screws throughout the phone.
+- The battery is strongly glued and requires extensive disassembly to service.
+- Screen repairs require a lot of disassembly while battling tough adhesive.",3,,1.4
+Smartphones,126.0,Fairphone,4,2021,"+ The pop-out battery can be replaced in seconds, with no tools required.
++ Display repairs are easy and well-prioritized.
++ The OEM supports all common repairs with clear instructions and publicly available replacement parts.",10,,1.4
+Smartphones,125.0,Google,Pixel 6,2021,"+ The display is straightforward to remove and replace.
++ Many components are highly modular, and standard T3 screws are used throughout.
+- The strongly adhered battery is difficult to replace.",6,,1.3
+Smartphones,124.0,Google,Pixel 6 Pro,2021,"+ Many components are highly modular, and standard T3 screws are used throughout.
+• Display repairs can be challenging, but free public software helps with calibration.
+- Replacing the glued battery is tough work, and the charge port is soldered.",5,,1.4
+Smartphones,123.0,Apple,iPhone 13 Pro,2021,"+ Display and battery replacements remain a priority in the new iPhones' design.
++ Most other components are modular and easy to access or replace.
+- Once again, double glass means double drop damage, and despite the improvements to durability over the years, there’s still no easy way to replace the rear glass.",6,,1.4
+Smartphones,122.0,Google,Pixel 5a,2021,"+ Many components are modular and can be replaced independently.
++ Battery repairs are reasonably well-prioritized, but tricky adhesive complicates repairs.
+- The charging port, a high-wear part, is not modular and repair requires a full motherboard replacement.",6,,1.2
+Smartphones,121.0,Mi,11,2021,"+ Only one standard Phillips screwdriver is needed.
+- The glass body makes drop damage more likely, and the curved glass requires special tools or is likely to break during repairs.
+- To replace the in-display fingerprint sensor, you'll need to remove the whole display—which can result in a broken screen.",4,,1.0
+Smartphones,120.0,Huawei,Mate 40 Pro,2020,"+ Huawei uses standard Phillips screws throughout the phone.
+- Glass on front and back doubles the likelihood of drop damage.
+- The display adhesive is insanely strong.",4,,1.0
+Smartphones,119.0,Apple,iPhone 12 Pro Max,2020,"+ Screen and battery remain prioritized and reasonably accessible for replacement.
++ Most components are fairly modular and replaceable.
+- The glass back makes drops even more dangerous and requires a full case replacement if it breaks.",6,,1.0
+Smartphones,118.0,Apple,iPhone 12 mini,2020,"+ The two most common smartphone repairs—display and battery—are well-prioritized here.
++ Most major components are modular enough to be accessed/replaced independently.
+- Glass covering the rear housing is fragile and impractical to replace—a single drop could necessitate replacing the entire body of the iPhone.",6,,1.0
+Smartphones,117.0,Apple,iPhone 12 Pro,2020,"+ Display and battery replacements remain a priority in the new iPhones' design.
++ Most other important components are modular and easy to access or replace.
+- Glass on front and back doubles the likelihood of drop damage—and if the back glass breaks, you'll be removing every component and replacing the entire chassis.",6,,1.0
+Smartphones,116.0,Google,Pixel 5,2020,"+ Many components are modular and can be replaced independently.
++ Battery repairs are reasonably well-prioritized, but tricky adhesive complicates repairs.
+- The charging port, a high-wear part, is not modular; this repair requires microsoldering or a full motherboard replacement.",6,,1.0
+Smartphones,115.0,Microsoft,Surface Duo,2020,"- Batteries are glued and require extensive disassembly to service.
+- The USB-C port is soldered directly to the main board.
+- Uncommon tri-point screws secure key components.",2,,1.0
+Smartphones,114.0,Google,Pixel 4a,2020,"+ Most components are modular and independently replaceable.
++ Repair-friendly stretch-release adhesive secures the battery, and is easy to release successfully.
+• The display comes off first, but is fragile and poorly protected. Foam adhesive makes the opening process relatively easy.",6,,1.0
+Smartphones,113.0,Samsung,Galaxy Note 20 Ultra,2020,"+ You'll only need one screwdriver, a standard Phillips.
+- Battery replacement remains far too difficult for a consumable component.
+- Screen repairs are tedious, poorly prioritized, and unnecessarily expensive.",3,,1.0
+Smartphones,112.0,Apple,iPhone SE 2020,2020,"+ The two most commonly replaced components, display and battery, remain straightforward to access with the proper knowledge and tools.
++ Most components are modular and independently replaceable, including many that are cross-compatible with iPhone 8.
+- The fragile glass back is impractical to replace.",6,,1.0
+Smartphones,111.0,Samsung,Galaxy A51,2020,"+ A single Phillips driver takes care of all the screws.
+• The plastic back cover is glued in place, but can be removed fairly easily with heat.
+- Screen repairs require a lot of disassembly while battling tough adhesive.",4,,1.0
+Smartphones,110.0,Samsung,Galaxy S20 Ultra,2020,"+ The fasteners, all identical Phillips screws, only require one driver and can't be mixed up, simplifying repair.
+- Every repair starts with painstakingly un-gluing the fragile glass rear cover.
+- Replacing the glued-down battery is tougher than ever, especially with board interconnect cables to work around.",3,,1.0
+Smartphones,109.0,Samsung,Galaxy Z Flip,2020,"- Glued-down glass panels are an unnecessary barrier to entry for repairs, especially given the phone's lack of ingress protection.
+- Battery replacements are possible, but unnecessarily difficult due to poorly-routed cables and the lack of stretch-release adhesive.
+- The components involved in the folding process are likely to wear over time (even if you don't bathe them in purple dust), necessitating eventual replacement.",2,,1.0
+Smartphones,108.0,Motorola,razr,2020,"- Every repair starts (and ends) with stubborn, glued-on outer covers.
+- Replacing the battery—or rather, batteries—requires near-total disassembly.
+- The charging port is soldered directly to the main board.",1,,1.0
+Smartphones,107.0,Google,Pixel 4 XL,2019,"+ All screws are standard T3 Torx fasteners.
+- Display repairs continue to be difficult, requiring complete disassembly of the phone.
+- All repairs require access through the stubbornly-glued back panel.",4,,1.0
+Smartphones,106.0,Apple,iPhone 11,2019,"+ The prioritized display makes replacement of this critical component easier than in other devices.
++ Display swaps don’t require too much hardware swapping to maintain Face ID.
+- Front and back glass doubles the chances of breakage, and the rear glass can only be fully replaced with a complete housing swap.",6,,1.0
+Smartphones,105.0,Apple,iPhone 11 Pro Max,2019,"+ Critical display and battery repairs remain a priority in the iPhone's design.
++ The battery procedure has been simplified and many components are accessible independently.
+- Glass on front and back doubles the likelihood of drop damage—and if the back glass breaks, you'll be removing every component and replacing the entire chassis.",6,,1.0
+Smartphones,104.0,Fairphone,3,2019,"+ Key components like the battery and screen have been prioritized in the design and are accessible either without tools or just a regular Phillips screwdriver.
++ Visual cues inside the phone help with disassembling and replacing its parts and modules.
++ Replacing complete modules is very easy. Going for their internal parts is also possible and requires a Torx screwdriver.",10,,1.0
+Smartphones,103.0,Samsung,Galaxy Note10 Plus 5G,2019,"+ Equally-sized Phillips fasteners means you only need to bring one driver for repairs.
+- Every repair starts with painstakingly un-gluing the fragile glass rear cover.
+- Replacing the glued-down battery is tougher than ever, especially with board interconnect cables to work around.",3,,1.0
+Smartphones,102.0,Shift,6m,2019,"+ Battery and screen repairs are prioritized.
++ Only one type of screw head and length are used throughout the phone.
++ Most components are modular and can be replaced individually.",9,,1.0
+Smartphones,101.0,Huawei,Mate 20 X 5G,2019,"+ Many components are modular and can be replaced independently.
+- Glued-down front and back glass means greater risk of breakage, while making all repairs difficult to start.
+- Screen repairs will require near-complete disassembly.",4,,1.0
+Smartphones,100.0,Google,Pixel 3a,2019,"+ Most components are modular and can be easily replaced once the display assembly is removed.
++ Repair-friendly stretch-release adhesive secures the battery.
+- The myriad long, thin ribbon cables connecting the internal componentry can be obnoxious to work around, and are easy to accidentally tear.",6,,1.0
+Smartphones,99.0,Google,Pixel 3a XL,2019,"+ Most components are modular and can be easily replaced once the display assembly is removed.
++ Repair-friendly stretch-release adhesive secures the battery.
+- The myriad long, thin ribbon cables connecting the internal componentry can be obnoxious to work around, and are easy to accidentally tear.",6,,1.0
+Smartphones,98.0,Samsung,Galaxy Fold,2019,"- The mechanics involved in the fold are likely to wear over time, causing stress to hinges and display, necessitating eventual replacement.
+- The fragility of the main display means you'll almost certainly be replacing it before long—a pricey repair.
+- Battery replacements are possible, but unnecessarily difficult—solvents help, but risk damage to the display supports.",2,,1.0
+Smartphones,97.0,Samsung,Galaxy S10,2019,"+ A single Phillips driver takes care of all the screws.
+- Battery replacement is possible, but still unnecessarily difficult.
+- Glued-down glass both front and back means greater risk of breakage, and makes repairs difficult to start.",3,,1.0
+Smartphones,96.0,Huawei,Mate 20 Pro,2018,"+ Many components are modular and can be replaced independently.
+- Glued-down front and back glass means greater risk of breakage while making repairs difficult to start.
+- Screen repairs require a lot of disassembly while battling tough adhesive.",4,,1.0
+Smartphones,95.0,Apple,iPhone XR,2018,"+ The display-first opening procedure and easy access to the battery remain design priorities.
++ A broken display can be replaced with minimal hardware removal, and with a little care you can preserve Face ID.
+- Glass on front and back doubles the crackability—and broken back glass requires an entire chassis replacement.",6,,1.0
+Smartphones,94.0,Google,Pixel 3 XL,2018,"+ The only screws are standard T3 Torx fasteners.
+- Display repairs are much more difficult than previous models, requiring complete disassembly of the phone.
+- To service any component, you'll have to painstakingly un-glue (and later re-glue) the glass rear panel.",4,,1.0
+Smartphones,93.0,Google,Pixel 3,2018,"+ The only screws are standard T3 Torx fasteners.
+- Display repairs are much more difficult than previous models, requiring complete disassembly of the phone.
+- To service any component, you'll have to painstakingly un-glue (and later re-glue) the glass rear panel.",4,,1.0
+Smartphones,92.0,Apple,iPhone XS,2018,"+ Critical display and battery repairs remain a priority in the iPhone's design.
++ A broken display can be replaced without removing the biometric Face ID hardware.
+- Glass on front and back doubles the likelihood of drop damage—and if the back glass breaks, you'll be removing every component and replacing the entire chassis.",6,,1.0
+Smartphones,91.0,Nokia,8110 4G,2018,"+ For the most part disassembly is extremely simple with only plastic clips, and standard Torx screws holding the phone together.
++ The battery is easy to access and replace
+- Several main components such as headphone jack, SD card slot, Micro USB port and vibrator are soldered to the motherboard.",8,,1.0
+Smartphones,90.0,LG,G7 Thin Q,2018,"+ Lots of components are modular and can be replaced independently.
+- Front and back glass make for double the crackability, and strong adhesive on both makes it tough to access the internals for any repair.
+- Screen repair, the most common type repair, is not prioritized, requiring an almost complete disassembly while battling tough adhesive.",4,,1.0
+Smartphones,89.0,OnePlus,6,2018,"+ The battery can be accessed almost the moment you open the phone, and is only lightly adhered in place. Plus, there's a convenient pull tab.
+- Display replacement, the most common repair, is not prioritized in the design and will take a lot of work.
+- Front and back glass means twice the risk of cracks—without even the benefit of wireless charging.",5,,1.0
+Smartphones,88.0,Huawei,P20 Pro,2018,"+ Many components are modular and can be replaced independently.
+- Double the risk for breakage with glass front and back.
+- Replacing the screen requires going through at least two layers of adhesive and some disassembly.",4,,1.0
+Smartphones,87.0,Samsung,Galaxy S9 Plus,2018,"+ Many components are modular and can be replaced independently.
+- Glued-down glass both front and back means greater risk of breakage, and makes repairs difficult to start.
+- Screen repairs require a lot of disassembly while battling tough adhesive.",4,,1.0
+Smartphones,86.0,Samsung,Galaxy S9,2018,"+ Many components are modular and can be replaced independently.
+- Glued-down glass both front and back means greater risk of breakage, and makes repairs difficult to start.
+- Screen repairs require a lot of disassembly while battling tough adhesive.",4,,1.0
+Smartphones,85.0,Apple,iPhone X,2017,"+ Display and battery repairs remain a priority in the iPhone's design.
++ A cracked display can be replaced without removing the biometric Face ID hardware.
+- Fussy cables tie unrelated components together into complex assemblies—expensive and troublesome to replace.",6,,1.0
+Smartphones,84.0,Google,Pixel 2 XL,2017,"+ Many components are modular and can be replaced once the display assembly is removed.
++ All of the screws are common Phillips #00 screws, and there are only 9 of them.
+- The battery's loss of pull-tab adhesive, plus tightly walled-in placement, makes it much harder to remove.",6,,1.0
+Smartphones,83.0,Google,Pixel 2,2017,"+ Front panel is fairly easy to remove and replace.
++ Standard screws used throughout.
+- Cable placement makes battery removal more difficult than necessary.",6,,1.0
+Smartphones,82.0,Huawei,Mate 10 Pro,2017,"+ Despite the IP67-rated seals, the back cover is fairly easy to open.
+- A damaged  front camera means switching the whole display including the frame, or damaging the display while trying to remove it.
+- And replacing the display—the most common repair—means taking out almost every component.",4,,1.0
+Smartphones,81.0,Apple,iPhone 8,2017,"+ The two most commonly replaced components, display and battery, remain straightforward to access with the proper knowledge and tools.
++ The addition of wireless charging means less strain on your Lightning port, a common point of failure.
+- The durability of the glass back remains to be seen—but replacements are likely to be very difficult.",6,,1.0
+Smartphones,80.0,Apple,iPhone 8 Plus,2017,"+ The display and battery are straightforward to access—with the proper knowledge and tools.
++ Wireless charging means less wear on the all-purpose Lightning port, a common point of failure.
+- Despite alleged durability, the back glass is breakable and next to impossible to replace when cracked.",6,,1.0
+Smartphones,79.0,Samsung,Galaxy Note8,2017,"+ Many components, including all of those that experience wear, are modular and can be replaced independently.
+- All repairs require removing the glass rear panel, which is challenging due to the large amount of adhesive.
+- Replacing the display requires removing the glass rear panel and the display, both of which are fragile and secured with strong adhesive.",4,,1.0
+Smartphones,78.0,Essential,Phone,2017,"- The USB-C port is soldered to the motherboard, and with no headphone jack it'll be subject to extra wear.
+- Nearly invisible seams and copious adhesive means any attempt at repair is likely to inflict as much damage as it fixes.
+- Did we mention we had to freeze it?",1,,1.0
+Smartphones,77.0,Samsung,Galaxy Note Fan Edition,2017,"+ Many components are modular and can be replaced independently.
+- Front and back glass make for double the crackability, and strong adhesive on the rear glass makes it very difficult to gain entry into the device.
+- Because of the curved screen, replacing the front glass without destroying the display is probably impossible.",4,,1.0
+Smartphones,76.0,OnePlus,5,2017,"+ There are no proprietary screws.
++ The OnePlus 5’s display is held on by easy to dispatch reusable plastic clips.
+- The display and glass are fused and the home button is integrated into the display assembly making repair of all three of these parts more complicated and expensive.",7,,1.0
+Smartphones,75.0,Samsung,Galaxy S8 Plus,2017,"+ Many components are modular and can be replaced independently.
+- Front and back glass make for double the crackability, and strong adhesive on both makes it tough to access the internals for any repair.
+- Because of the curved screen, replacing the front glass without destroying the display is extremely difficult.",4,,1.0
+Smartphones,74.0,Samsung,Galaxy S8,2017,"+ Lots of components are modular and can be replaced independently.
+- Front and back glass make for double the crackability, and strong adhesive on both makes it tough to access the internals for any repair.
+- Because of the curved screen, replacing the front glass without destroying the display is extremely difficult.",4,,1.0
+Smartphones,73.0,LG,G6,2017,"+ Standard Phillips screws used, very sparingly, throughout.
+• The battery can be replaced, but tough adhesive and a glued-on rear panel make it unnecessarily difficult.
+- Front and back glass doubles the crackability, and strong adhesive on both makes it tough to begin any repair.",5,,1.0
+Smartphones,72.0,Huawei,Mate 9,2016,"+ Most of the components—like both camera units, the loudspeaker, and the USB board—can be replaced. Even the proximity sensor and the NFC antenna are modular.
+• The battery is trapped behind some flex cables and is glued tightly into place, but still can be swapped out when its power starts to fade away.
+- Replacing a broken display, one of the most common repairs, will be one of the most difficult ones on this phablet.",5,,1.0
+Smartphones,71.0,Google,Pixel XL,2016,"+ Many components are modular and can easily be replaced once the display assembly is removed.
++ The battery has a removal tab and is adhered by a modest amount of adhesive, making its removal painless.
+- The opening procedure requires prying up a thin, poorly-supported display assembly making it difficult to open the phone without damage.",7,,1.0
+Smartphones,70.0,Google,Pixel,2016,"+ The battery is secured with removable adhesive tabs, making replacement simple.
++ Many components are modular and can be replaced independently.
+- The fused display is thin and unsupported, and must be removed to access any other component.",7,,1.0
+Smartphones,69.0,Apple,iPhone 7,2016,"+ The battery is straightforward to access. Removing it requires specialty screwdrivers and knowledge of the adhesive removal technique, but is not difficult.
++ The solid state home button eliminates a common point of failure.
+- With the addition of tri-point screws, many iPhone 7 repairs will require up to four different types of drivers.",7,,1.0
+Smartphones,68.0,Apple,iPhone 7 Plus,2016,"+ The battery is straightforward to access. Removing it requires specialty screwdrivers and knowledge of the adhesive removal technique, but is not difficult.
++ The solid state home button eliminates a common point of failure.
+- With the addition of tri-point screws, many iPhone 7 Plus repairs will require up to four different types of drivers.",7,,1.0
+Smartphones,67.0,Sony,Xperia X Compact,2016,"+ Modular design allows for replacement of many individual components.
+• Battery is fairly easy to access and remove, but requires removal of the delicate NFC antenna to replace.
+- The fused display assembly is strongly adhered to the midframe and requires disassembling the entire phone to replace.",6,,1.0
+Smartphones,66.0,Moto,Z,2016,"+ Pull-tab on battery, easy to access once you have the device open.
+• Display is adhered in place with no external fasteners, but the adhesive is weak enough to easily separate after heating.
+- Charging port soldered to the motherboard means a common repair will be very expensive.",7,,1.0
+Smartphones,65.0,Samsung,Galaxy Note7,2016,"+ Many components are modular and can be replaced independently.
+- Front and back glass make for double the crackability, and strong adhesive on the rear glass makes it very difficult to gain entry into the device.
+- Because of the curved screen, replacing the front glass without destroying the display is probably impossible.",4,,1.0
+Smartphones,64.0,Asus,Zenfone 3 Max,2016,"+ Battery is easily accessible and removable.
+• Parts could be more modular, especially mechanical/high wear components.
+- The opening procedure is extremely tough, clips are stiff and likely to be broken, and the SIM slot bends easily.",6,,1.0
+Smartphones,63.0,Meizu,MX6,2016,"+ The display assembly is the first component out, simplifying screen repairs.
++ Modular components with spring contacts, large screws, and thoughtful cabling all make repair cheaper and easier.
+- The MX6 uses Pentalobe security screws on the exterior, requiring a specialty screwdriver to open the phone before any repair.",7,,1.0
+Smartphones,62.0,LG,G5,2016,"+ The user-removable, slide-out battery is a huge boon to phone lifespan.
++ No glue and few screws make for a relatively simple opening procedure.
+- The fused display assembly will need to be replaced if the LCD or glass breaks, increasing costs.",8,,1.0
+Smartphones,61.0,Vivo,X7 Plus,2016,"+ Battery is fairly easily accessible and removable.
+• The opening procedure is very tough, but easier than on the smaller model.
+- The single unit display assembly is annoying to reach, and will be a costly part.",7,,1.0
+Smartphones,60.0,Vivo,X7,2016,"+ Battery is fairly easily accessible and removable.
+• Parts could be more modular, especially mechanical/high wear components.
+- The opening procedure is extremely tough, clips are very stiff and likely to be broken.",6,,1.0
+Smartphones,59.0,Huawei,P9,2016,"+ Modular components with spring contacts, thoughtful cabling, and minimal adhesive all make repair cheaper and easier.
++ The battery is straightforward to access. Removing it requires knowledge of the adhesive removal technique, but is not difficult.
+- The display assembly is a fused unit, and replacement requires near complete disassembly of the phone.",7,,1.0
+Smartphones,58.0,Xiaomi,Mi 5,2016,"+ The motherboard and battery can be replaced independently and easily.
+• All screws are standard Phillips screws, but removing them will void your warranty.
+- The display is difficult to replace, requiring complete disassembly and purchasing consumables.",6,,1.0
+Smartphones,57.0,Apple,iPhone SE,2016,"+ The display assembly is the first component out of the phone, simplifying screen replacements.
++ The battery is fairly easy to access, even though it's not technically ""user replaceable.""
+- The Touch ID cable could be easily ripped out of its socket if a user is not careful when opening the phone.",6,,1.0
+Smartphones,56.0,Oppo,R9m,2016,"+ Battery is fairly easily accessible and removable.
++ Most components are extremely modular making for cheaper repairs.
+- The opening procedure is extremely tough, clips are very stiff and likely to be broken.",7,,1.0
+Smartphones,55.0,Samsung,Galaxy S7,2016,"+ Many components are modular and can be replaced independently.
+- The display needs to be removed (and likely destroyed) if you want to replace the USB port.
+- Front and back glass make for double the crackability, and strong adhesive on the rear glass makes it very difficult to gain entry into the device.",3,,1.0
+Smartphones,54.0,Samsung,Galaxy S7 Edge,2016,"+ Many components are modular and can be replaced independently.
+- The display needs to be removed (and likely destroyed) if you want to replace the USB port.
+- Front and back glass make for double the crackability, and strong adhesive on the rear glass makes it very difficult to gain entry into the device.",3,,1.0
+Smartphones,53.0,Lenovo,K5 Note,2015,"+ Battery is replaceable with just a couple of tools.
+• Some parts are modular, but high-wear components like the headphone jack and charge port are not.
+- Replacing the display assembly requires removing every other component from the device first.",6,,1.0
+Smartphones,52.0,Fairphone,2,2015,"+ The most commonly failing components, battery and display, can be replaced without tools.
++ Internal modules are secured with Phillips #0 screws and simple spring connectors.
++ Individual modules can be opened, and many components can be individually replaced.",10,,1.0
+Smartphones,51.0,Huawei,Mate 8,2015,"+ Opening the phone requires only a Torx screwdriver and a prying tool (No adhesive holding it together).
+• The battery does have a pull tab adhesive strip, but there is a second adhesive strip that does not have a tab.
+- LCD Display is integrated into the front case. While the replacement process is pretty straightforward, you’ll still need to pick every component off the frame and likely pay more to replace this non-modular component.",6,,1.0
+Smartphones,50.0,Xiaomi,Redmi Note 3,2015,"+ Despite no external screws, the rear case is fairly easy to remove.
++ Modular design with charging port on its own daughterboard means many components can be independently replaced.
+- Display assembly is a single fused component, that requires disassembling the entire phone to replace.",8,,1.0
+Smartphones,49.0,Wiko,Pulp 4G Phone,2015,"+ Replacing the battery is easy as pie with the swappable back cover.
++ This phone doesn't use excessive glue nor proprietary screws—we found only Phillips throughout the entirety.
+- Unfortunately, the components on the daughterboard are soldered on, making a repair on an individual component difficult.",7,,1.0
+Smartphones,48.0,Apple,iPhone 6s,2015,"+ The display assembly continues to be the first component out, simplifying screen repairs.
++ The battery is straightforward to access. Removing it requires a proprietary pentalobe screwdriver and knowledge of the adhesive removal technique, but is not difficult.
+- The iPhone 6s still uses proprietary Pentalobe screws on the exterior, requiring a specialty screwdriver to remove.",7,,1.0
+Smartphones,47.0,Apple,iPhone 6s Plus,2015,"+ The display assembly continues to be the first component out, simplifying screen repairs.
++ The battery is straightforward to access. Removing it requires a proprietary Pentalobe screwdriver and knowledge of the adhesive removal technique, but is not difficult.
+- The iPhone 6s Plus still uses proprietary Pentalobe screws on the exterior, requiring a specialty screwdriver to remove.",7,,1.0
+Smartphones,46.0,Nexus,5X,2015,"+ Many components are modular and can be replaced independently.
++ Standard Phillips screws means a driver is easy to find.
+- Fused display assembly—glass and LCD will need to be replaced together if one or the other breaks.",7,,1.0
+Smartphones,45.0,Nexus,6P,2015,"- It's very difficult—although not impossible—to open the device without damaging the glass camera cover. Because of the unibody design, this makes every component extremely difficult to replace.
+- The display assembly cannot be replaced without tunneling through the entire phone. This makes one of the most common repairs, a damaged screen, difficult to accomplish.
+- Tough adhesive holds the rear cover panels and battery in place.",2,,1.0
+Smartphones,44.0,OnePlus,2,2015,"+ A single (non-proprietary) screw head decreases cost of tools for repairs.
++ Many components are modular and can be replaced independently.
+- The LCD and digitizer glass are fused together and must be replaced as a single part; heat is required to remove it from the midframe.",7,,1.0
+Smartphones,43.0,Shift,5.1,2015,"+ Cover and battery are easy to remove and can be swapped without using tools.
++ No excessive glue and  no proprietary screws are used, only Phillips #000.
+- Lots of components and connectors are soldered to the motherboard. They could be soldered by hand if needed but this makes repairs more difficult.",6,,1.0
+Smartphones,42.0,LG,G4,2015,"+ Rear panel and battery can be removed with no tools.
++ Many components are modular and can be replaced independently.
+- Fused display assembly—glass and LCD will need to be replaced together if one or the other breaks.",8,,1.0
+Smartphones,41.0,Samsung,Galaxy S6,2015,"+ Many components are modular and can be replaced independently.
+- Front and back glass make for double the crackability, and strong adhesive on the rear glass makes it very difficult to gain entry into the device.
+- Replacing the glass without destroying the display is probably impossible.",4,,1.0
+Smartphones,40.0,Samsung,Galaxy S6 Edge,2015,"+ Many components are modular and can be replaced independently.
+- Front and back glass make for double the crackability, and strong adhesive on the rear glass makes it very difficult to gain entry into the device.
+- The battery is very tightly adhered to the back of the display, and buried beneath the midframe and motherboard.",3,,1.0
+Smartphones,39.0,HTC,One M9,2015,"- The battery is buried beneath the motherboard and adhered to the midframe, hindering its replacement.
+- The display assembly cannot be replaced without tunneling through the entire phone. This makes one of most common repairs—a damaged screen—very difficult to accomplish.
+- Intense adhesives make many components difficult, and even dangerous, to remove and replace.",2,,1.0
+Smartphones,38.0,Nexus,6,2014,"+ Pressure contacts and cable connectors make the modular components (cameras, buttons, headphone jack) easy to replace.
++ The Nexus 6 uses a single kind of screw, although it's a fairly uncommon size (T3).
+- Several components (vibrator, SIM slot, speaker, USB port) are soldered directly to the motherboard and will be more difficult to replace than if they were connected by cable.",7,,1.0
+Smartphones,37.0,Apple,iPhone 6 Plus,2014,"+ Continuing the trend from the iPhone 5 series, the display assembly comes out of the phone first, simplifying screen repairs.
++ The battery is straightforward to access. Removing it requires a proprietary pentalobe screwdriver and knowledge of the adhesive removal technique, but is not difficult.
+- The iPhone 6 Plus still uses proprietary Pentalobe screws on the exterior, requiring a specialty screwdriver to remove.",7,,1.0
+Smartphones,36.0,Apple,iPhone 6,2014,"+ Continuing the trend from the iPhone 5 series, the display assembly comes out of the phone first, simplifying screen repairs.
++ The battery is straightforward to access. Removing it requires a proprietary pentalobe screwdriver and knowledge of the adhesive removal technique, but is not difficult.
+- The iPhone 6 still uses proprietary Pentalobe screws on the exterior, requiring a specialty screwdriver to remove.",7,,1.0
+Smartphones,35.0,Samsung,Galaxy Alpha,2014,"+ The battery is incredibly easy to remove and replace.
+- The display assembly is held in with a significant amount of adhesive and requires very careful prying and a considerable amount of heat to remove without cracking the thin glass or cutting cables.
+- Replacing anything other than the battery requires first removing the display, risking extra damage on the way to a repair.",5,,1.0
+Smartphones,34.0,Amazon,Fire Phone,2014,"+ External, non-proprietary screws means no adhesive holding the device together, and an easier time getting in.
+- Tons of cables and connectors make disassembly tedious and reassembly difficult.
+- The four Dynamic Perspective cameras are encased in glue. Replacement will mean heat and cutting.",3,,1.0
+Smartphones,33.0,Samsung,Galaxy S5 Mini,2014,"+ The battery is incredibly easy to remove and replace.
+• The display is now one of the first components out, making its replacement a little faster. However, it is held in with a significant amount of adhesive and requires very careful and persistent prying, as well as a considerable amount of heat to remove without cracking the glass or cutting cables.
+- Replacing anything other than the battery requires first removing the display, risking extra damage on the way to a repair.",5,,1.0
+Smartphones,32.0,OnePlus,One,2014,"+ No proprietary screws and only one screw head type decreases cost of tools for repairs.
+- With its connector trapped under a plastic panel and several screws, the battery is more of a chore to replace than necessary.
+- The LCD and digitizer glass are fused together and must be replaced as a single part, and they require heat to remove from the midframe.",5,,1.0
+Smartphones,31.0,Samsung,Galaxy S5,2014,"+ The battery is incredibly easy to remove and replace.
+• The display is now one of the first components out, making replacements a little faster. However, it is held in with a significant amount of adhesive and requires very careful and persistent prying and a considerable amount of heat to remove without cracking the glass or cutting cables.
+- Replacing anything other than the battery requires first removing the display, risking extra damage on the way to a repair.",5,,1.0
+Smartphones,30.0,HTC,One M8,2014,"- It's very difficult—although no longer impossible—to open the device without damaging the rear case. This makes every component extremely difficult to replace.
+- The battery is buried beneath the motherboard and adhered to the midframe, hindering its replacement.
+- The display assembly cannot be replaced without tunneling through the entire phone. This makes one of most common repairs, a damaged screen, very difficult to accomplish.",2,,1.0
+Smartphones,29.0,Fairphone,1,2013,"+ The battery can be replaced without any tools.
++ It's very easy to open and access the internal components.
+- Several smaller components are soldered to the motherboard, increasing repair difficulty (front-facing camera, vibrator motor, LED flash, and headphone jack).",7,,1.0
+Smartphones,28.0,Nexus,5,2013,"+ Very modular design allows independent replacement of several wear-prone components—like the headphone jack and speakers.
++ Only very mild adhesive holds the battery in place, making it fairly easy to safely remove and replace.
+- The glass and LCD are fused to the display frame. Fixing broken glass will be either expensive or very difficult.",8,,1.0
+Smartphones,27.0,Apple,iPhone 5c,2013,"+ Just like in the iPhone 5, the display assembly is the first component out of the phone, simplifying screen replacements.
++ The battery is still fairly easy to access, even though it's not technically ""user replaceable.""
+- Adhesive on the antenna connectors hinder disassembly.",6,,1.0
+Smartphones,26.0,Apple,iPhone 5s,2013,"+ Just like in the iPhone 5, the display assembly is the first component out of the phone, simplifying screen replacements.
++ The battery is still fairly easy to access, even though it's not technically ""user replaceable.""
+- The fingerprint sensor cable could be easily ripped out of its socket if a user is not careful while opening the phone.",6,,1.0
+Smartphones,25.0,Motorola,Moto X 1st Generation,2013,"+ Pressure contacts and cable connectors make the modular components (cameras, buttons, headphone jack and speakers) easy to replace.
++ The Moto X uses a single kind of screw, although it's a fairly uncommon size (T3).
+- Sticky adhesive on the back cover is annoying and will slow opening the phone.",7,,1.0
+Smartphones,24.0,Samsung,Galaxy S4,2013,"+ The battery can be replaced in seconds, without any tools.
++ Very easy to open and access internal components.
+- The glass is fused to both the display and the display frame, increasing repair costs.",8,,1.0
+Smartphones,23.0,HTC,One,2013,"- Very, very difficult (possibly impossible?) to open the device without damaging the rear case. This makes every component extremely difficult to replace.
+- The battery is buried beneath the motherboard and adhered to the midframe, hindering its replacement.
+- The display assembly cannot be replaced without removing the rear case—this will make the most common repair, a damaged screen, nearly impossible.",1,,1.0
+Smartphones,22.0,BlackBerry,Z10,2013,"+ The battery can be replaced without any tools.
++ Motherboard and display come out with little difficulty and are held in place with little adhesive.
+- Smaller components (headphone jack, camera) are modular and can be replaced individually, but have somewhat strong adhesive holding them in place.",8,,1.0
+Smartphones,21.0,Nexus,4,2012,"+ Removing the back cover requires nothing more than a common screwdriver, a plastic opening tool, and some patience.
++ The entire device only contains four different length screws—all common screw types—for a total of only 15 screws.
+- The battery is stuck to the frame with a lot of adhesive, so removing it without puncturing the battery can be difficult.",7,,1.0
+Smartphones,20.0,Samsung,Galaxy Note II,2012,"+ Battery is easy to replace.
++ Very easy to open for access to internal components.
+- Components adhered to the back of a fused display assembly.",8,,1.0
+Smartphones,19.0,Apple,iPhone 5,2012,"+ We're quite happy that the glass/display is the first thing that comes off the iPhone 5. The majority of iPhone repairs are due to a shattered front glass.
++ The battery comes out with a bit of prying once the front panel is removed.
+- The iPhone 5 still uses Pentalobe screws on the exterior, making it more difficult to open the device.",7,,1.0
+Smartphones,18.0,Samsung,Galaxy S III,2012,"+ The battery can be replaced without any tools.
++ Very easy to open and access internal components.
+- The glass is fused to both the display and the display frame, increasing repair costs.",8,,1.0
+Smartphones,17.0,Motorola,Droid 4,2012,"+ The lack of security or proprietary screws is a welcome sight.
+- Keyboard contacts are located on the motherboard, making keyboard replacement costly and difficult.
+- Tons of glue adheres the glue that is securing the glue to the glue that holds the phone together.",4,,1.0
+Smartphones,16.0,Samsung,Galaxy Nexus,2011,"+ Battery replacement is incredibly simple thanks to the removable rear panel.
++ Minimal adhesive makes removal of the motherboard and other components a snap.
+- Removing the rear case to access the motherboard and other internals requires a lot of careful prying and guitar-picking.",7,,1.0
+Smartphones,15.0,Motorola,Droid RAZR,2011,"+ Once the battery and motherboard are within reach, replacement is easy—no soldering required.
+- The front panel is adhered to the AMOLED display, so they must be replaced as one expensive unit.
+- All plastic frames and casing proved to be incredibly tedious to remove, and felt like they would break at any moment.",4,,1.0
+Smartphones,14.0,Apple,iPhone 4S,2011,"+ The iPhone 4S is still held together primarily with screws and limited adhesive.
++ The rear panel and battery are both easy to remove and replace (provided you have the correct screwdriver).
+- Apple is again using Pentalobe screws to secure the rear panel and keep people out",6,,1.0
+Smartphones,13.0,Samsung,Galaxy Note,2011,"+ Battery is easy to replace.
++ Very easy to open for access to internal components.
+- Components adhered to the back of a fused display assembly.",8,,1.0
+Smartphones,12.0,Motorola,Droid Bionic,2011,"+ No tools are necessary for changing the SIM and microSD cards.
++ The battery can be removed in seconds.
++ The phone is held together with a limited number of screws and plastic clips. Adhesive is minimally used in its construction.",9,,1.0
+Smartphones,11.0,Motorola,Droid 3,2011,"+ There were no security screws in the entire device.
++ The battery was not soldered to anything and was easy to replace.
+- There is a lot of adhesive holding things together, making disassembly and reassembly difficult.",6,,1.0
+Smartphones,10.0,Samsung,Galaxy S II,2011,"+ Battery is easy to replace.
++ Very easy to open for access to internal components.
+- Components adhered to the back of a fused display assembly.",8,,1.0
+Smartphones,9.0,Samsung,Galaxy S 4G,2011,"+ Removing the rear panel to replace the microSD/SIM cards and the battery requires no tools.
++ Attaching components like the headphone jack to separate cables makes their replacement less costly than replacing the entire motherboard.
+- The front panel is adhered to the AMOLED display, so they must be replaced as one expensive unit.",6,,1.0
+Smartphones,8.0,Apple,iPhone 4 Verizon,2011,"+ The iPhone 4 is held together primarily with [lots of] screws, sans tabs, and limited adhesive.
++ The rear panel and battery are both easy to remove and replace (provided you have the right screwdriver).
+- Apple is using Pentalobe screws to secure the rear panel and keep people out.",6,,1.0
+Smartphones,7.0,Motorola,Atrix 4G,2011,"+ The LCD is separable from the glass front panel, making them independently replaceable.
++ The phone is held together with a limited number of screws and plastic clips. Adhesive is minimally used in its construction.
++ The battery can be removed in seconds.",9,,1.0
+Smartphones,6.0,Nexus,S,2010,"+ Battery is very easily replaceable -- just remove the back cover to swap it out.
++ The motherboard comes out easily once you're inside, as it's held in place by regular screws and connectors.
+- Front panel is attached with adhesive instead of screws, so it's harder to take off than on the iPhone.",7,,1.0
+Smartphones,5.0,HTC,Surround,2010,"+ Relatively easy to remove the rear case to replace the battery.
+- Unable to access the internal MicroSDHC card without voiding the warranty.
+- It is very difficult to access the front panel and LCD for replacement.",5,,1.0
+Smartphones,4.0,Nokia,N8,2010,"+ The battery, although considered by Nokia not to be user-serviceable, can be easily removed.
++ The AMOLED display easily comes apart from the glass, which means that you can replace the glass and the display independently.
+- Removing the cameras is near-impossible, and requires tedious, potentially detrimental steps.",8,,1.0
+Smartphones,3.0,Apple,iPhone 3GS,2009,"+ LCD and front glass are not fused and can be replaced individually.
++ Standard Phillips screws used throughout.
+- Battery is buried under the logic board, making it difficult to replace.",7,,1.0
+Smartphones,2.0,Apple,iPhone 3G,2008,"+ LCD and front glass are not fused and can be replaced individually.
++ Standard Phillips screws used throughout.
+- Battery is buried under the logic board, making it difficult to replace.",7,,1.0
+Smartphones,1.0,Apple,iPhone (1st Generation),2007,"+ Standard Phillips screws used throughout.
+- Hidden clips make it nearly impossible to open rear case without damaging it.
+- Soldered battery is very difficult to replace.",2,,1.0
+Tablets,65.0,Microsoft,Surface Pro 11,2024,"+ Modular, standard storage is easily accessible via a rear hatch, and the battery is screwed (not glued) in place.
++ Microsoft publicly offers thorough repair manuals, spare parts, and SDT software for post-repair calibrations.
++ Although the display is adhered in place, it separates without heat or messy solvents.
+- Replacement display adhesive is the only way to secure the display after internal service.",8,,1.9
+Tablets,64.0,Apple,"iPad Pro 13""",2024,"+ The battery, USB-C port, and both cameras are modular and replaceable with effort.
++ The battery disconnects immediately after removing the display.
+- All repairs require removing the fragile yet strongly glued-in-place screen.
+- Apple doesn’t offer iPad self-repair instructions or parts.",3,,1.8
+Tablets,63.0,Apple,iPad Air 6,2024,"+ The battery, USB-C port, and both cameras are modular and replaceable with effort.
+- The battery is difficult to safely disconnect due to a glued down logic board and delicate connector.
+- All repairs require removing the fragile yet strongly glued-in-place screen.
+- Apple doesn’t offer iPad self-repair instructions or parts.",3,,1.8
+Tablets,62.0,Google,Pixel Tablet,2023,"+ The USB-C port is highly modular, and the battery is readily accessible once the display is removed.
+ + Google offers a solid selection of original replacement parts.
+- All repairs require first carefully de-gluing (and later re-gluing) the display—a difficult process that can be challenging to get right in one try.
+- Google does not provide a public service manual at this time.",5,,1.7
+Tablets,61.0,Microsoft,Surface Pro 9,2022,"+ Modular, standard storage is easily accessible via a rear hatch, and the battery is screwed (not glued) in place.
++ Microsoft publicly offers thorough repair manuals, spare parts, and SDT software for post-repair calibrations.
+- Although the display is adhered in place, it separates without heat or messy solvents.",8,Revised,1.7
+Tablets,60.0,Microsoft,Surface Pro X,2019,"+ The user-removable SSD makes for easy upgrades and data security that doesn't require device destruction.
++ To the extent that screws are used, they are all standard Torx fasteners.
+- The battery is firmly glued in place, with its connector pinned under the motherboard—requiring near-total disassembly for service.",6,,1.0
+Tablets,59.0,Apple,iPad 7,2019,"- As with all iPads, a solid barrier of very strong adhesive hinders all repairs.
+- The Lightning port, a common point of failure, is soldered to the logic board.
+- More adhesive holds nearly everything else in place. Battery and logic board replacements are particularly obnoxious.",2,,1.0
+Tablets,58.0,HP,Elite x2 G4,2019,"+ All screws are standard Torx or Phillips—only three drivers are needed for complete disassembly.
++ A modular and flat construction allows access to most components early on.
+• The display is fused to the front panel, simplifying repair but increasing the cost of an LCD or front glass replacement.",9,,1.0
+Tablets,57.0,HP,Elite x2 1012 G2,2019,"+ All screws are standard T5 Torx, Phillips #1, or Phillips #0.
++ Removing the battery, display, and system board is relatively straightforward and does not require fighting against adhesive.
+• The device is fairly modular, but consolidation of the I/O board into the system board is a notable step in the wrong direction.",9,,1.0
+Tablets,56.0,Apple,iPad Air 3,2019,"• Many components are modular and can be replaced independently, but the Lightning port is soldered to the logic board.
+- Battery replacement is possible, but still unnecessarily difficult.
+- Gobs of adhesive hold many parts and cables in place, complicating all repairs.",2,,1.0
+Tablets,55.0,Apple,iPad Mini 5,2019,"- Battery replacement is possible, but still unnecessarily difficult.
+- Gobs of adhesive hold many parts and cables in place, complicating all repairs.
+- Removing the home button is tough, and will be required for display replacement if you want to keep Touch ID functionality.",2,,1.0
+Tablets,54.0,HP,Elite X2 1013 G3,2018,"+ All screws are standard Torx or Phillips.
+• A modular and flat construction allows access to most components, but layering issues and excessive adhesive make the process less straightforward.
+• The display is fused to the front panel, simplifying repair but increasing the cost of an LCD or front glass replacement.",9,,1.0
+Tablets,53.0,Apple,"iPad Pro 11""",2018,"+ The USB-C port is modular and can be independently replaced.
+• The battery is secured with both easier-to-remove stretch-release tabs and conventional, non-removable adhesive.
+- Gobs of adhesive hold most everything in place, making all repairs more difficult.",3,,1.0
+Tablets,52.0,Microsoft,Surface Pro 6,2018,"- All repairs require first removing the display assembly—which is stubbornly glued in place, expensive, and prone to shattering.
+- The battery is firmly glued in place, with its connector pinned under the motherboard—requiring near-total disassembly for service.
+- Once upon a time, Surface Pro storage was removable—but not in this version.",1,,1.0
+Tablets,51.0,Apple,iPad 6,2018,"- As in all iPads, a solid barrier of very strong adhesive bars the way to any repairs, and makes rework a sticky proposition.
+- More adhesive holds nearly everything else in place. Battery replacement is particularly challenging.
+- The LCD has foam sticky tape adhering it to the front panel, increasing risk of damage during disassembly.",2,,1.0
+Tablets,50.0,Acer,Iconia One 7,2017,"+ Battery is easy to replace.
++ Modular design allows replacement of many individual parts.
+- High wear components soldered in place, which increases replacement costs.",8,,1.0
+Tablets,49.0,Kindle,Paperwhite 3rd Generation,2017,"+ The battery was very easy to remove.
++ All screws were Phillips #00 screws.
+- Thin layer of adhesive that needed to broken in order to remove the bezel and access the internal components.",8,,1.0
+Tablets,48.0,Huawei,MediaPad M2,2017,"+ The display is easily removed from the simple clips holding it to the body, simplifying repairs
+- The battery is extremely difficult to remove, even with heat and prying.
+- The charging port is soldered to the motherboard, making replacement of this high-use component expensive.",7,,1.0
+Tablets,47.0,Amazon,Fire 5th Generation,2017,"+ The plastic case assembly is held together by clips and no adhesive, and opening only requires prying with an iFixit opening tool.
+• The battery is modular, but it is held in place by somewhat stubborn adhesive.
+- Removing the digitizer and LCD panel requires fighting through some very resilient adhesive.",7,,1.0
+Tablets,46.0,HP,ElitePad 1000 G2 Teardown,2017,"+ Display is easy to remove and has no adhesive.
++ Most commonly-failing components, including all the ports and buttons and are modular and can be replaced quickly.
+• The battery can be removed relatively quickly, but is covered in tape that needs to be replaced.",7,,1.0
+Tablets,45.0,Huawei,MediaPad T2,2017,"+ Rear case is secured by clips, not glue, and is flexible enough to remove fairly easily.
+- Battery is held in place with excessive adhesive. A hole in the midframe means prying the battery out may risk damaging the back of the display.
+- Charging port is soldered to motherboard, increasing cost of a common repair.",6,,1.0
+Tablets,44.0,Sony,Xperia Z4 Tablet,2017,"+ Many parts are modular and can be replaced independently.
+- The delicate and arduous opening procedure leaves no room for mistakes, and must be completed to access any other component.
+- The display assembly consists of a thin fused glass panel and LCD, and is extremely difficult to remove and replace.",5,,1.0
+Tablets,43.0,Samsung,Galaxy Tab S3,2017,"+ Many components (including the headphone jack, speakers, and micro SD slot) are modular and can be replaced.
+- In order to repair or replace anything, both the front and rear panel need to be removed.
+- The front and rear panel are secured in place with a lot of adhesive, and are extremely hard to remove.",4,,1.0
+Tablets,42.0,Microsoft,Surface Pro 5,2017,"- Adhesive holds many components in place, including the display and battery.
+- Replacement of any part requires removal of the display assembly, an easy part to damage.
+- The SSD is no longer replaceable.",1,,1.0
+Tablets,41.0,Apple,"iPad Pro 10.5""",2017,"• While not soldered in place, the battery is very solidly adhered—no more pull tabs like we saw in the iPad Pro 12.9"".
+- The fused front panel increases the cost of screen repair, and the risk of damaging the LCD when opening.
+- Gobs of adhesive hold everything in place, making all repairs more difficult.",2,,1.0
+Tablets,40.0,LG,G Pad 7.0,2017,"+ Very modular design allows independent replacement of several wear-prone components—like the headphone jack and speakers.
++ Only very mild adhesive holds the battery in place, making it fairly easy to safely remove and replace.
+- Display assembly is a single fused component, that requires disassembling the entire phone to replace.",8,,1.0
+Tablets,39.0,Apple,iPad 5 Wi-Fi,2017,"- Just like in previous iPads, the front panel is glued to the rest of the device, greatly increasing the chances of cracking the glass during a repair.
+- Gobs of adhesive hold everything in place. As with its Air 1 predecessor, this ranks among the most difficult battery removal procedures we've seen in an iPad.
+- The LCD has foam sticky tape adhering it to the front panel, increasing chances of it being shattered during disassembly.",2,,1.0
+Tablets,38.0,HP,Pro x2 612 G2,2017,"+ Manufacturer-provided repair documentation.
++ Easy opening procedure.
+- Intricate construction allows for modularity but makes repair more complex than necessary.",9,,1.0
+Tablets,37.0,Google,Pixel C,2016,"+ Many parts, including the USB-C port, are modular and can be replaced independently.
+- The motherboard is glued tightly to the rear case.
+- Crazy strong adhesive holds the battery to the rear case, complicating the inevitable replacement.",4,,1.0
+Tablets,36.0,HP,Elite x2,2016,"+ Easy opening procedure.
++ Simple, modular, glue-free design.
++ Manufacturer-provided repair documentation.",10,,1.0
+Tablets,35.0,Apple,"iPad Pro 9.7""",2016,"• While not soldered in place, the battery is very solidly adhered—no more pull tabs like we saw in the larger iPad Pro 12.9""
+- The fused front panel increases the cost of screen repair, and the risk of damaging the LCD when opening.
+- Gobs of adhesive hold everything in place making all repairs more difficult.",2,,1.0
+Tablets,34.0,Apple,"iPad Pro 12.9""",2015,"+ The battery is not soldered to the logic board, and can now be removed with adhesive tabs, greatly simplifying battery removal.
+- The fused front panel increases the cost of screen repair, and the risk of damaging the LCD when opening.
+- Gobs of adhesive hold everything in place making all repairs more difficult.",3,,1.0
+Tablets,33.0,Microsoft,Surface Pro 4,2015,"• The battery is not soldered to the motherboard, but very strong adhesive makes removal and replacement a hazardous chore.
+- The display assembly consists of a fused glass panel and LCD, and is difficult to remove and replace.
+- Adhesive holds many components in place, including the display and battery.",2,,1.0
+Tablets,32.0,Apple,iPad mini 4 Wi-Fi,2015,"- The fused front panel also increases the cost of repairing a cracked screen, and increases risk of damage to the LCD when opening.
+- The Lightning connector is soldered to the logic board, so don't bend its pins.
+- Gobs of adhesive hold everything in place making all repairs more difficult.",2,,1.0
+Tablets,31.0,Kindle,Voyage,2014,"+ Several modular components can be replaced individually.
++ Screws secure a slide-off rear case, simplifying opening procedure compared to other Kindles.
+- The front glass and e-ink display are fused together, increasing the cost of repairs.",7,,1.0
+Tablets,30.0,Nexus,9,2014,"+ The rear case is secured with clips, so it can be easily removed without heat or tools (just don't lose your rear-facing camera).
+- The interior is a maze of tape and thin, delicate cables, making disassembly and reassembly difficult and perilous.
+- The LCD is fused to the front glass, so you'll need to replace both components in the event of a cracked screen.",3,,1.0
+Tablets,29.0,Apple,iPad Mini 3 Wi-Fi,2014,"- Copious amounts of adhesive hold many components in place—front glass, battery, front camera, back camera, ribbon cables—making repair extremely difficult.
+- The Lightning connector is soldered to the logic board, so don't bend its pins.
+- Removing the home button is now a much more difficult job. If you want to keep Touch ID functionality after a screen replacement, you'll have to transfer the home button to the new front panel.",2,,1.0
+Tablets,28.0,Apple,iPad Air 2,2014,"- The fused front panel also increases the cost of repairing a cracked screen, and increases risk of damage to the LCD when opening.
+- Just like in previous iPads, the front panel is glued to the rest of the device, greatly increasing the chances of cracking the glass during a repair.
+- Gobs of adhesive hold everything in place making all repairs more difficult.",2,,1.0
+Tablets,27.0,Kindle,7th Generation,2014,"+ Simple, modular design with few, distinct components that can be replaced independently.
++ Easy opening procedure—clips supplemented by mild adhesive are all that hold the front bezel in place.
+- Battery adhesive is much stronger than necessary, making its replacement hazardous.",8,,1.0
+Tablets,26.0,Kindle,Fire HD 6,2014,"+ The rear case is very easy to open, granting trouble-free access to the internals.
++ All the fasteners found inside are T5 Torx screws—one non-proprietary screwdriver is all you need.
+- The glass panel is fused to the front plastic frame, meaning a heat gun is required for replacing cracked glass (or you have to replace both components together).",6,,1.0
+Tablets,25.0,Microsoft,Surface Pro 3,2014,"- The display assembly consists of a fused glass panel and LCD, and is extremely difficult to remove and replace.
+- Tons of adhesive hold everything in place, including the display and battery.
+- The delicate and arduous opening procedure leaves no room for mistakes: one slip-up, and you'll be out a screen.",1,,1.0
+Tablets,24.0,Apple,iPad Mini 2,2013,"- Copious amounts of adhesive hold many components in place—front glass, battery, front camera, back camera, ribbon cables—making repair extremely difficult.
+- The Lightning connector is soldered to the logic board, so don't bend its pins.
+- Hidden screws mean you'll need to be very diligent when trying to remove internal components.",2,,1.0
+Tablets,23.0,Kindle,"Fire HDX 8.9""",2013,"+ Front panel is held in place with clips.
++ Modular design allows replacement of several components.
+- Battery is glued and difficult to remove.",7,,1.0
+Tablets,22.0,Apple,iPad Air LTE,2013,"- Just like in previous iPads, the front panel is glued to the rest of the device, greatly increasing the chances of cracking the glass during a repair.
+- Gobs, gobs, and goblins of adhesive hold everything in place. This is the most difficult battery removal procedure we've seen in an iPad.
+- The LCD has foam sticky tape adhering it to the front panel, increasing chances of it being shattered during disassembly.",2,,1.0
+Tablets,21.0,Microsoft,Surface Pro 2,2013,"- The display assembly consists of a fused glass panel and LCD, and is extremely difficult to remove and replace.
+- Tons of adhesive hold everything in place, including the display and battery.
+- The delicate and arduous opening procedure leaves no room for mistakes: one slip-up, and you'll likely shear one of the four ribbon cables in the edge of the display.",1,,1.0
+Tablets,20.0,Kindle,"Fire HDX 7""",2013,"• The rear case is secured with screws and clips, so it can be removed (albeit with difficulty) without heat.
+- The battery is glued in place with strong adhesive and requires motherboard removal to replace.
+- The motherboard is very difficult to replace—the midframe must be separated from the display assembly in order to reinstall it.",3,,1.0
+Tablets,19.0,Kindle,Fire HD 2013,2013,"+ Simple, modular design means the few components that might fail can be easily, inexpensively replaced.
++ All the fasteners found inside are Torx T5 screws—one non-proprietary screwdriver is all you need.
+- A decent amount of adhesive is used on the battery, meaning some prying and gentle working is required for disassembly.",8,,1.0
+Tablets,18.0,Dell,XPS 10,2013,"+ Easy to open. Easy to remove battery.
++ Color-coded screws and labeled cables inside.
+- LCD is fused to the glass.",9,,1.0
+Tablets,17.0,Microsoft,Surface Pro Gen 1,2013,"- The display assembly (comprising of a fused glass and LCD) is extremely difficult to remove/replace.
+- Tons of adhesive hold everything in place, including the display and battery.
+- Unless you perform the opening procedure 100% correctly, chances are you'll shear one of the four cables surrounding the display perimeter.",1,,1.0
+Tablets,16.0,Kindle,"Fire HD 8.9""",2012,"+ With just a few clips, the device is very easy to open.
+- Heat gun is needed for fused LCD and front glass.
+- Battery and cables are adhered to case.",5,,1.0
+Tablets,15.0,Google,Nexus 10,2012,"+ Easily removable battery. LCD is not fused to glass.
+- The opening procedure is a very difficult process.
+- Several components are attached by both screws and glue.",6,,1.0
+Tablets,14.0,Apple,iPad Mini Wi-Fi,2012,"- Copious amounts of adhesive hold many components in place -- front glass, logic board, battery, front camera, back camera, ribbon cables -- making repair extremely difficult.
+- The Lightning connector is soldered to the logic board, so don't bend its pins.
+- Hidden screws mean you'll need to be very diligent when trying to remove internal components.",2,,1.0
+Tablets,13.0,Apple,iPad 4 Wi-Fi,2012,"- Just like in the iPad 2 & 3, the front panel is glued to the rest of the device, greatly increasing the chances of cracking the glass when trying to remove it.
+- Gobs, gobs, and gobs of adhesive hold everything in place, including the prone-to-start-a-fire-if-punctured battery.
+- The LCD has foam sticky tape adhering it to the front panel, increasing chances of it being shattered during disassembly.",2,,1.0
+Tablets,12.0,Microsoft,Surface RT,2012,"+ Several components are modular and replaceable without requiring desoldering.
+- It's pretty difficult to remove the rear panel and gain access to the device.
+- It is impossible to remove the keyboard connector without first removing the display from the frame.",4,,1.0
+Tablets,11.0,Kindle,Fire HD,2012,"+ The rear case is very easy to open, granting trouble-free access to the internals.
++ The battery is held in with absolutely no adhesive.
+- Copper tape over the processor is somewhat difficult to remove and to readhere correctly.",7,,1.0
+Tablets,10.0,Nexus,7,2012,"+ The rear case is very easy to open, and requires minimal prying effort with a plastic opening tool to remove.
++ All fasteners inside are Phillips #00 screws—no security or proprietary screws here.
+- The LCD does not separate from the display glass, increasing repair costs.",7,,1.0
+Tablets,9.0,Nook,Simple Touch with GlowLight,2012,"+ The opening procedure was very simple, and aside from the massive amounts of adhesive, every part came free rather easily.
++ There were a total of only 12 screws (all T5 Torx), 11 of which were the same length.
+- The front glass, GlowLight LEDs, and digitizer are fused together, so breaking any of these parts will require replacement of the entire display assembly.",7,,1.0
+Tablets,8.0,Samsung,Galaxy Tab 2 7.0,2012,"+ Modular design and easy-to-remove components.
++ Front glass is not fused to the LCD.
+- Heat gun is needed to replace the LCD.",8,,1.0
+Tablets,7.0,Apple,iPad 3 4G,2012,"- Just like the iPad 2, the front panel is glued to the rest of the device, greatly increasing the chances of cracking the glass when trying to remove it.
+- Gobs, gobs, and gobs of adhesive hold down everything in place, including the prone-to-start-a-fire-if-punctured battery.
+- The LCD has foam sticky tape adhering it to the front panel, increasing chances of the front panel being shattered during disassembly",2,,1.0
+Tablets,6.0,Nook,Tablet,2011,"+ The LCD is not fused to the front panel assembly, making replacement easy, if necessary.
+• Hidden screws prevent removal of rear panel.
+- Excessive amount of adhesive and adhesive strips make disassembly a painfully tedious process.",6,,1.0
+Tablets,5.0,Kindle,Fire,2011,"+ The rear case is very easy to open, granting trouble-free access to the internals.
++ All the fasteners found inside are Phillips #0 screws—one non-proprietary screwdriver is all you need.
+- The glass panel is fused to the front plastic frame, meaning a heat gun is required for replacing cracked glass (or you have to replace both components together).",8,,1.0
+Tablets,4.0,Apple,iPad 2 Wi-Fi EMC 2415,2011,"- The front panel is now glued to the rest of the device, greatly increasing the chances of cracking the glass when trying to remove it.
+- The LCD has foam sticky tape adhering it to the front panel, increasing chances of it being shattered during disassembly.
+- The battery is very securely stuck down to rear case, and you have to remove the logic board to remove it.",2,,1.0
+Tablets,3.0,Motorola,Xoom,2011,"+ There's no proprietary screws or fasteners in the machine -- everything comes out with a spudger and a couple of Torx screwdrivers.
++ LCD and front panel glass are not fused together. That's great news for folks unfortunate enough to drop their Xooms and crack their glass.
+- Everything is accessible but somewhat inconvenient to repair -- there's just a lot of labor involved with removing that many screws.",8,,1.0
+Tablets,2.0,Dell,Streak,2010,"+ Good: Replacing the battery is super easy and takes less than one minute.
++ Good: Opening the device requires prying the bezels and removing five screws.
+- Bad: The LCD is bonded to the Gorilla Glass, increasing the cost of fixing the device if you break just the glass.",8,,1.0
+Tablets,1.0,Apple,iPad Wi-Fi,2010,"+ Front panel is held in place with clips.
++ LCD is not fused to the display glass.
+- Battery is difficult to remove and replace.",6,,1.0
+Laptops,63.0,Lenovo,ThinkPad P16s Gen 5,2026,"+ Storage and memory are readily repairable/upgradeable using industry-standard parts.
++ Battery, display, keyboard, and fan replacements are straightforward and well-prioritized.
++ Overall very high modularity, although some ports remain soldered to the system board.
++ Lenovo offers thorough repair instructions and replacement parts.",9,,2.4
+Laptops,62.0,Lenovo,ThinkPad T14 Gen 7 and T16 Gen 5,2026,"+ Storage and memory are readily repairable/upgradeable using industry-standard parts.
++ The battery is easily replaced, and the keyboard replacement procedure is best-in-class.
++ Overall very high modularity, including individually replaceable Thunderbolt ports.
++ Lenovo provides thorough repair instructions and sells replacement parts.",10,Provisional,2.2
+Laptops,61.0,Apple,MacBook pro 14-inch (M5),2025,"+ Battery replacements are do-able (if not exactly easy).
++ The Thunderbolt port design is highly modular and repair-friendly.
++ Apple offers a full service manual and a good selection of replacement parts for end users.
+- Storage is not removable or serviceable, the keyboard is riveted down, and pentalobe screws bar the way for all repairs.",4,,2.2
+Laptops,60.0,Lenovo,ThinkPad P16 Gen 3,2025,"+ Storage and memory are readily repairable/upgradeable using industry-standard parts.
++ The battery is easily replaced, and the keyboard replacement procedure is best-in-class.
++ Lenovo typically provides thorough support for P-series repairs (instructions and replacement parts).
+- All ports are soldered to the system board, and the fan is permanently affixed to the heat sink.",8,Provisional,2.2
+Laptops,59.0,Apple,"MacBook Air 13"" (M4)",2025,"+ Battery repairs are tough but do-able, and the fanless design is low-maintenance.
++ Apple has already published their service manual, and replacement parts will likely be available soon.
+- Storage is soldered, the keyboard is riveted down, and software calibration issues hinder some repairs.",5,Provisional,2.0
+Laptops,58.0,Lenovo,ThinkPad E16 Gen 2,2024,"+ Storage and memory are readily repairable/upgradeable using industry-standard parts.
++ Battery, display, and fan procedures are prioritized and generally straightforward.
++ Lenovo provides impressive E-series repair support, including support documentation and spare parts availability.",9,,1.9
+Laptops,57.0,Lenovo,ThinkPad E14 Gen 6,2024,"+ Storage and memory are readily repairable/upgradeable using industry-standard parts.
++ Battery, display, and fan procedures are prioritized and generally straightforward.
++ Lenovo provides impressive E-series repair support, including support documentation and spare parts availability.",9,,1.9
+Laptops,56.0,Microsoft,Surface Laptop 7,2024,"+ Entry and access to main components is uncomplicated.
++ Microsoft provides a thorough set of repair manuals, sells spare parts, and makes their SDT software publicly available for post-repair calibrations.
+- Troublesome board shields interfere with display replacements, and the keyboard is riveted to the chassis.",8,,1.9
+Laptops,55.0,Lenovo,ThinkPad T16 Gen 3,2024,"+ Storage and memory are readily repairable/upgradeable using industry-standard parts.
++ The battery is easily replaced, and the keyboard replacement procedure is best-in-class.
++ Overall high modularity, apart from a handful of soldered ports and a bundled fan/heat sink assembly.",9,,1.9
+Laptops,54.0,Lenovo,ThinkPad T14 Gen 5,2024,"+ Storage and memory are readily repairable/upgradeable using industry-standard parts.
++ The battery is easily replaced, and the keyboard replacement procedure is best-in-class.
++ Overall high modularity, apart from a handful of soldered ports and a bundled fan/heat sink assembly.",9,Provisional,1.9
+Laptops,53.0,Framework,Laptop 16,2023,"+ Repairability is strongly prioritized in the design from top to bottom.
++ Virtually all major components are modular and readily replaceable, including the graphics module.
++ Framework typically offers a factory service manual and a robust selection of replacement parts for end users.",10,,1.7
+Laptops,52.0,Apple,"MacBook Air 15"" (M2)",2023,"+ Battery repairs are tough but do-able, and the fanless design is low-maintenance.
++ Apple offers full repair instructions and replacement parts for end users.
+- Storage is soldered, the keyboard is riveted down, and pentalobe screws bar the way for all repairs.",5,,1.6
+Laptops,51.0,Apple,"MacBook Air 13"" (M2)",2022,"+ Battery repairs are tough but do-able, and the fanless design is low-maintenance.
++ Apple offers full repair instructions and replacement parts for end users.
+- Storage is soldered, the keyboard is riveted down, and pentalobe screws bar the way for all repairs.",5,,1.6
+Laptops,50.0,Lenovo,ThinkPad T14 Gen 3,2022,"+ Most repairs are very straightforward and require only basic tools.
++ The keyboard replacement procedure is best in class.
+- Partially soldered memory and I/O ports hinder certain repairs.",7,,1.3
+Laptops,49.0,Apple,"MacBook Pro 14"" (M1)",2021,"+ Battery replacements are well-prioritized, if not exactly easy.
++ Apple offers a full service manual and a good selection of replacement parts for end users.
+- Storage is not removable or serviceable, the keyboard is riveted down, and pentalobe screws bar the way for all repairs.",5,Revised,1.3
+Laptops,48.0,Framework,Laptop 13,2021,"+ Every important component in the laptop is easy to access and replace.
++ Inside the laptop, most components are helpfully labeled to help orient and guide the fixer.
++ The Framework Laptop repair guides are free and easily accessible, and Framework is already selling spare parts right on their website.",10,,1.3
+Laptops,47.0,HP,EliteBook 840 Aero G8,2021,"+ The RAM, SSD, battery, and display are well-prioritized, easily accessible, and quickly removable.
++ Almost all moving parts, including the speakers, touchpad, and fan are modular and can all be independently replaced.
+- Many cables use fragile ZIF connectors.",9,,1.1
+Laptops,46.0,HP,EliteBook 840 G7,2020,"+ Most components are very modular and straightforward to replace.
+• The keyboard, a common point of failure, is not independently replaceable.
++ Manufacturer provides free user-accessible repair documentation.",9,,1.0
+Laptops,45.0,HP,EliteBook x360 830 G7,2020,"+ Most components are very modular and straightforward to replace.
+• The keyboard, a common point of failure, is not independently replaceable.
++ Manufacturer provides free user-accessible repair documentation.",9,,1.0
+Laptops,44.0,HP,EliteBook 850 G5,2020,"+ Components are highly modular and repairs are straightforward using basic tools.
++ Several repairs/upgrades are possible using off-the-shelf components.
++ Free repair documentation is publicly available from the OEM.",10,,1.0
+Laptops,43.0,HP,ProBook 440 G7,2020,"+ Most repairs including RAM, SSD, battery, and display are straightforward.
++ Manufacturer provides free user-accessible repair documentation.
+• The keyboard is riveted in place and not easily serviced.",9,,1.0
+Laptops,42.0,HP,Elitebook x360 1040 G5,2020,"+ The SSD and battery are easily serviced.
++ Free repair documentation is publicly available from the OEM.
+- Soldered RAM and over-reliance on adhesives make certain repairs impractical.",6,,1.0
+Laptops,41.0,Apple,"MacBook Pro 16"" 2019",2019,"- Minor components are modular, but the processor, RAM, and flash memory are soldered to the logic board.
+- Glue and/or rivets secure the keyboard, battery, speakers, and Touch Bar, making those components a tricky fix.
+- The Touch ID sensor is the power switch and is locked to the logic board, greatly complicating repairs.",1,,1.0
+Laptops,40.0,Microsoft,"Surface Laptop 3 15""",2019,"+ The opening procedure is straightforward, with a clever design that represents a dramatic improvement over its predecessors.
+• Torx Plus screws call for relatively rare drivers, but our standard Torx drivers worked in a pinch.
+- The firmly glued-down battery will be very difficult to service when it inevitably goes kaput.",5,,1.0
+Laptops,39.0,Apple,"MacBook Pro 13"" Two Thunderbolt Ports 2019",2019,"- Proprietary pentalobe screws continue to be hostile to repair.
+- The battery assembly is still very solidly glued into the case, complicating replacement of a consumable.
+- Soldered-down RAM limits upgradability and longevity.",2,,1.0
+Laptops,38.0,HP,EliteBook x360 830 G5,2019,"+ SSD, RAM, and battery are accessible and removable.
++ Manufacturer provides free user-accessible repair documentation.
++ High modularity apart from soldered ports.",9,,1.0
+Laptops,37.0,HP,EliteBook 840 G6,2019,"+ Common repairs are straightforward with basic tools.
++ Some repairs/upgrades can be made with off-the-shelf components.
++ Free repair documentation is publicly available from HP.",10,,1.0
+Laptops,36.0,HP,EliteBook x360 830 G6,2019,"+ SSD, RAM, and battery are accessible and removable.
++ Manufacturer provides free user-accessible repair documentation.
+• High modularity apart from soldered ports.",9,,1.0
+Laptops,35.0,MacBook,"Pro 15"" Touch Bar 2019",2019,"- The processor, RAM, and flash memory are soldered to the logic board. Repairs and upgrades will be impractical at best.
+- The top case assembly, including the keyboard, battery, speakers, and Touch Bar, is glued together—making all those components impractical to replace separately.
+- The Touch ID sensor doubles as the power switch, and is paired with the T2 chip on the logic board. Fixing a broken power switch may require help from Apple, or a new logic board.",1,,1.0
+Laptops,34.0,HP,EliteBook 1050 G1,2018,"+ SSD, RAM, and battery are accessible and removable.
++ Manufacturer provides free user-accessible repair documentation.
+• High modularity apart from soldered ports and a complex keyboard assembly.",9,,1.0
+Laptops,33.0,Apple,MacBook Air 13” Retina Display Late 2018,2018,"+ Many components are modular and straightforward to access—including the ports, fan, and speakers.
+- The keyboard is integrated into the top case, requiring a full teardown for service.
+- Soldered, non-serviceable, non-upgradeable storage and RAM is a serious bummer on a $1,200+ laptop.",3,,1.0
+Laptops,32.0,Apple,"MacBook Pro 15"" Touch Bar 2018",2018,"- The processor, RAM, and flash memory are soldered to the logic board. Repairs and upgrades will be impractical at best.
+- The top case assembly, which includes the keyboard, battery, and speakers, is firmly glued in place—making all those components hard to replace separately.
+- The Touch ID sensor doubles as the power switch, and is paired with the T2 chip on the logic board. Fixing a broken power switch may require help from Apple, or a new logic board.",1,,1.0
+Laptops,31.0,Apple,"MacBook Pro 13"" Touch Bar 2018",2018,"- The processor, RAM, and flash memory are soldered to the logic board. Repairs and upgrades will be impractical at best.
+- The top case assembly, which includes the keyboard, battery, and speakers, is glued together—making all those components impractical to replace separately.
+- The Touch ID sensor doubles as the power switch, and is paired with the T2 chip on the logic board. Fixing a broken power switch may require help from Apple, or a new logic board.",1,,1.0
+Laptops,30.0,HP,EliteBook 840 G3,2017,"+ Common repairs are straightforward with basic tools.
++ Some repairs/upgrades can be made with off-the-shelf components.
++ Repair documentation and replacement parts are publicly available from HP.",10,,1.0
+Laptops,29.0,Dell,Latitude E5270,2017,"+ Common repairs are straightforward using basic tools.
++ Some repairs/upgrades can be made with off-the-shelf components.
++ Free repair documentation is publicly available from Dell.",10,,1.0
+Laptops,28.0,LG,"Gram 15""",2017,"+ Surprising repairability in a sleek design—most components are immediately accessible after removing the bottom cover.
++ Storage and RAM use standard components for easy repairs/upgrades.
+- No repair documentation is available from LG's support site.",9,,1.0
+Laptops,27.0,Samsung,"Series 9 15""",2017,"+ Most repairs are straightforward using basic tools.
++ Some repairs/upgrades can be made using off-the-shelf components.
+- Samsung provides no freely available repair documentation.",9,,1.0
+Laptops,26.0,Acer,"Predator 17.3""",2017,"+ Access panels make several common repairs very easy.
++ Most components are modular, and several use standard parts for repairs/upgrades.
+- Acer provides no user-accessible repair documentation.",8,,1.0
+Laptops,25.0,Dell,XPS 13,2017,"+ Most common repairs are straightforward to achieve with basic tools.
++ Dell provides free repair documentation for end users.
+- Soldered RAM means you'll never be able to upgrade when things get slow.",7,,1.0
+Laptops,24.0,Apple,"MacBook Pro 13"" Touch Bar 2017",2017,"- Proprietary pentalobe screws continue to make working on the device unnecessarily difficult.
+- The battery assembly is entirely, and very solidly, glued into the case, thus complicating replacement.
+- The processor, RAM, and flash memory are soldered to the logic board.",1,,1.0
+Laptops,23.0,Apple,Retina MacBook 2017,2017,"- The processor, RAM, and flash memory are still soldered to the logic board.
+- A large amount of strong adhesive holds the battery assembly to the lower case .
+- The Retina display is a fused unit with no separate, protective glass. If the display is damaged, it'll be arduous and expensive to repair.",1,,1.0
+Laptops,22.0,Apple,"MacBook Pro 15"" Touch Bar Late 2016",2016,"- Use of proprietary pentalobe screws makes servicing and repair unnecessarily difficult.
+- The entire battery assembly is strongly glued into the case, complicating replacement.
+- The processor, RAM, and flash memory are soldered to the logic board.",1,,1.0
+Laptops,21.0,Apple,"MacBook Pro 13"" Touch Bar Late 2016",2016,"- Proprietary pentalobe screws continue to make working on the device unnecessarily difficult.
+- The battery assembly is entirely, and very solidly, glued into the case, thus complicating replacement.
+- The processor, RAM, and flash memory are soldered to the logic board.",1,,1.0
+Laptops,20.0,Apple,"MacBook Pro 13"" Function Keys Late 2016",2016,"- Proprietary pentalobe screws continue to make opening the device unnecessarily difficult.
+- The battery assembly is entirely, and very solidly, glued into the case, thus complicating replacement.
+- The RAM is soldered to the logic board. Pay for the upgrade now, or be stuck with 8 GB forever. There is no chance of upgrade.",2,,1.0
+Laptops,19.0,Apple,Retina MacBook 2016,2016,"- The processor, RAM, and flash memory are still soldered to the logic board.
+- The battery assembly remains entirely, and very solidly, glued into the lower case.
+- The Retina display is still a fused unit with no separate, protective glass. If the display needs replacing, it'll cost a pretty penny.",1,,1.0
+Laptops,18.0,Asus,Chromebook C202,2016,"+ Intuitive, uncomplicated design makes disassembly straightforward and reversible.
++ Modular components means many repairs can be carried out by quickly swapping a failed part.
++ Only Phillips #1 and #00 screws are used.",9,,1.0
+Laptops,17.0,Apple,Retina MacBook 2015,2015,"- Proprietary pentalobe screws continue to make opening the device unnecessarily difficult, and new cable routing makes the procedure even trickier.
+- The USB-C port is secured by tri-wing screws, and buried under the display brackets, complicating replacement. Also, being the only port, it will experience more use and wear than a typical single-purpose port.
+- The battery assembly is entirely, and very solidly, glued into the lower case.",1,,1.0
+Laptops,16.0,Apple,"MacBook Pro 13"" Retina Display Early 2015",2015,"- Proprietary pentalobe screws continue to make opening the device unnecessarily difficult.
+- The battery assembly is entirely, and very solidly, glued into the case, thus complicating replacement. Additionally, the battery covers the screws holding the trackpad in place, meaning it's impossible to replace the trackpad without first removing the battery.
+- The Retina display is a fused unit with no separate, protective glass. If anything ever fails inside the display, the entire ($$$) assembly will need to be replaced.",1,,1.0
+Laptops,15.0,Apple,"MacBook Air 13"" Early 2015",2015,"+ Once you manage to take off the bottom cover, all the parts are pretty easily replaceable.
+- Proprietary screws on the case require the right screwdriver.
+- All the components—including RAM and SSD—are proprietary.",4,,1.0
+Laptops,14.0,Apple,"MacBook Air 11"" Early 2015",2015,"+ Once you get past the outer case, all the major components are fairly easy to access for replacement.
+- The outer case is held on with Apple's proprietary Pentalobe screws, so you'll need the right screwdriver to get inside.
+- Just like the screws, all the components—including the RAM and SSD—are proprietary, making replacement parts more difficult to source.",4,,1.0
+Laptops,13.0,Apple,"MacBook Pro 13"" Retina Display Late 2013",2013,"- Proprietary pentalobe screws continue to make opening the device unnecessarily difficult.
+- The battery assembly is now entirely, and very solidly, glued into the case, thus complicating replacement. Additionally, the battery now covers the screws and cable holding the trackpad in place. It is impossible to replace the trackpad without first removing the battery.
+- The Retina display is a fused unit with no protective glass. If anything ever fails inside the display, the entire ($$$) assembly will need to be replaced.",1,,1.0
+Laptops,12.0,Apple,"MacBook Pro 15"" Retina Display Late 2013",2013,"- Proprietary pentalobe screws prevent you from gaining access to anything inside.
+- As in the MacBook Air, the RAM is soldered to the logic board. Max out at 16GB now, or forever hold your peace—you can't upgrade.
+- The proprietary SSD has changed to a PCIe format, but still isn't a standard 2.5"" drive. However, it is a separate daughtercard, and we’re hopeful we can offer an upgrade in the near future.",1,,1.0
+Laptops,11.0,Apple,"MacBook Air 11"" Mid 2013",2013,"+ Once you get past the outer case, all the major components are fairly easy to access for replacement.
+- The outer case is held on with Apple's proprietary Pentalobe screws, so you'll need the right screwdriver to get inside.
+- Just like the screws, all the components—including the RAM and SSD—are proprietary, making replacement parts more difficult to source.",4,,1.0
+Laptops,10.0,Apple,"MacBook Air 13"" Mid 2013",2013,"+ Once you manage to take off the bottom cover, all the parts are pretty easily replaceable.
+- Proprietary screws on the case require the right screwdriver.
+- All the components—including RAM and SSD—are proprietary.",4,,1.0
+Laptops,9.0,Dell,Inspiron Duo,2013,"+ Much of the internal hardware is not only user-replaceable, but is also easy purchased from Dell or a third party vendor.
++ Almost the entire computer can be taken apart with a plastic opening tool (or two) and a Phillips #0 screwdriver.
+- You have to remove the top case to access the  battery, which is shameful for a Dell product.",7,,1.0
+Laptops,8.0,Apple,"MacBook Pro 13"" Retina Display Late 2012",2012,"- The battery is still glued into the laptop's top case, but it's slightly less difficult to remove compared to the 15"" model.
+- Proprietary pentalobe screws prevent you from gaining access to anything inside.
+- The RAM is surface-mount soldered to the logic board, so no upgrade is possible. It will forever have 8 GB of RAM.",2,,1.0
+Laptops,7.0,Asus,Zenbook UX32VD,2012,"+ All the components are easy to access, with no proprietary screws inhibiting access.
++ The battery is not glued in place, and a person equipped with the right tools can replace it in a matter of minutes.
+- A lot of components were held in place with more adhesive than is necessary.",8,,1.0
+Laptops,6.0,Apple,"MacBook Pro 15"" Unibody Mid 2012",2012,"+ Easily removable bottom panel and readily accessible battery, optical drive, hard drive, fans, and RAM.
++ Standard screws were used for all components, save for the battery.
+- Tri-wing screws on the battery require a specialty driver that an average user may not have.",7,,1.0
+Laptops,5.0,Apple,"MacBook Pro 15"" Retina Display Mid 2012",2012,"- Proprietary pentalobe screws prevent you from gaining access to anything inside.
+- As in the MacBook Air, the RAM is soldered to the logic board. Max out at 16GB now, or forever hold your peace—you can't upgrade.
+- The proprietary SSD isn't upgradeable either (yet), as it is similar but not identical to the one in the Air. It is a separate daughtercard, and we’re hopeful we can offer an upgrade in the near future.",1,,1.0
+Laptops,4.0,Apple,"MacBook Air 13"" Mid 2012",2012,"+ Once you manage to take off the bottom cover, all the parts are pretty easily replaceable.
+- Proprietary screws on the case require the right screwdriver.
+- All the components—including RAM and SSD—are proprietary.",4,,1.0
+Laptops,3.0,Apple,"MacBook Air 13"" Mid 2011",2011,"+ Once you manage to take off the bottom cover, all the parts are pretty easily replaceable.
+- Opening the bottom cover is quite difficult if you don't have the right screwdriver. It's clear that Apple didn't want people to open their machine.
+- All the components -- including RAM and SSD -- are proprietary, meaning that no off-the-shelf parts will work in it without serious rigging.",4,,1.0
+Laptops,2.0,Apple,"MacBook Pro 15"" Unibody Early 2011",2011,"+ Easily removable bottom panel and readily accessible battery connector allow for easy repair of most components without touching the battery screws.
++ Unibody design allows for easy access of most components with minimal amounts of extra work needed to get to them.
+- Tri-wing screws limit the average person from replacing their own battery.",7,,1.0
+Laptops,1.0,Apple,"MacBook Air 11"" Late 2010",2010,"+ Once you manage to take off the bottom cover, all the parts are pretty easily replaceable.
+- Opening the bottom cover is quite difficult if you don't have the right screwdriver. It's clear that Apple didn't want people to open their machine.
+- All the components -- including RAM and hard drive -- are proprietary, meaning that no off-the-shelf parts will work in it without serious rigging.",4,,1.0
+Wireless Earbuds,13.0,Bang & Olufsen,Beoplay Eleven,2024,"- The earbud batteries are soldered in place under layers of glue. Getting an earbud open is likely a destructive process, too.
+- Bang & Olufsen don’t provide a service manual or any replacement parts.
+• The charging case battery is replaceable, but internal access requires specialized tools.",1,,2.0
+Wireless Earbuds,12.0,Apple,AirPods 4,2024,"- Prying open the earbuds is likely to be a destructive process. Once you’re inside, no components are replaceable, and the batteries are soldered in place.
+- Tough epoxy seals the charging case shut, also making battery or USB-C port service destructive.
+- No official replacement parts or repair instructions are available.",0,,1.9
+Wireless Earbuds,11.0,Samsung,Galaxy Buds3,2024,"+ The charging case battery can be replaced using basic tools.
+- The buds’ internal batteries are not serviceable, limiting the Buds3 lifespan.
+- No official replacement parts or repair instructions are available.",2,,1.9
+Wireless Earbuds,10.0,Fairphone,Fairbuds,2024,"+ The coin cell earbud batteries are very easy to replace.
++ The charging case uses highly modular components and is straightforward to disassemble with basic tools.
++ Fairphone is committed to providing official replacement parts and instructions for repairs.",10,,1.8
+Wireless Earbuds,9.0,Amazon,Echo Buds,2023,"+ The charging case battery and USB-C port are both modular, replaceable parts.
+- The charging case is firmly glued together, complicating most repairs.
+• The earbud batteries are modular, but nonstandard. With no official replacement parts or instructions available, sourcing replacements could be tricky.",5,,1.8
+Wireless Earbuds,8.0,Google,Pixel Buds Pro,2022,"+ The charging case battery and USB-C port are both modular, replaceable parts.
+- The earbud batteries are firmly epoxied in place and aren’t replaceable.
+- The charging case doesn’t clip together, relying solely on glue. Reassembly requires special adhesive.
+- No official replacement parts or repair instructions are available.",2,,1.8
+Wireless Earbuds,7.0,Google,Pixel Buds A-Series,2021,"+ The charging case clips together without adhesive, and the USB-C charging port is modular.
+- The earbud batteries are soldered in place, making DIY repairs extra difficult.
+- The charging case battery is connected to the glued-in charging pins, lengthening the time it takes to service.
+- No official replacement parts or repair instructions are available.",3,,1.8
+Wireless Earbuds,6.0,JBL,Vibe 200TWS,2021,"- Prying open the earbuds is likely to be a destructive process. Once you’re inside, no components are replaceable, and the batteries are soldered in place. 
+- The charging case battery and charging port are soldered to the internal board—if you need to replace one, you have to replace both. 
+- No official replacement parts or repair instructions are available.",0,,1.8
+Wireless Earbuds,5.0,Sony,WF-1000XM4,2021,"+ The earbud batteries are fairly straightforward to access and can be replaced with standard Z55H coin cells.
++ The charging case battery and port are modular and straightforward to access.
+- No official replacement parts or repair instructions are available.",7,,1.8
+Wireless Earbuds,4.0,Samsung,Galaxy Buds Live,2020,"+ The earbud batteries are easily accessed and can be replaced with standard Z55H coin cells.
++ Both the buds and charging case are held together with clips instead of glue, allowing for non-destructive disassembly.
+- No official repair instructions are available—and, other than the earbud batteries, no replacement parts either.",8,,1.8
+Wireless Earbuds,3.0,Microsoft,Surface Earbuds,2020,"+ The earbud batteries are fairly straightforward to access and can be replaced with standard CP1254 coin cells.
+- The charging case battery and charging port are soldered to the internal board—if you need to replace one, you have to replace both.  
+- No official replacement parts or repair instructions are available.",4,,1.8
+Wireless Earbuds,2.0,Apple,AirPods Pro,2019,"- AirPods are not designed to be serviced. Accessing the earbuds internals without damage is very difficult, and the charging case isn't much better.
+- Sealed-in batteries limit the AirPods’ lifespan, making them a consumable/disposable item.
+- No official replacement parts or repair instructions are available.",0,,1.0
+Wireless Earbuds,1.0,Sony,Sony WF-1000XM3,2018,"+ The earbud batteries are easily accessed and can be replaced with standard Z55H coin cells.
+- The charging case battery and charging port are soldered to the internal board—if you need to replace one, you have to replace both.
+- No official replacement parts or repair instructions are available.",5,,1.8
+E-Readers,10.0,Kobo,Libra Colour,2024,"+ Opening is quick and simple, and the battery is easy to access and secured with stretch-release adhesive.
++ Kobo provides official replacement parts and instructions for repairs.
+- Sticky waterproofing coats everything inside, guarding against liquid damage but complicating other repairs.
+- The USB-C port is soldered to the motherboard.",6,,1.9
+E-Readers,9.0,Kobo,Clara Colour,2024,"+ Opening is quick and simple, and the battery is easy to access and secured with stretch-release adhesive.
++ Kobo provides official replacement parts and instructions for repairs.
+- Sticky waterproofing coats everything inside, guarding against liquid damage but complicating other repairs.
+- The USB-C port is soldered to the motherboard.",6,,1.9
+E-Readers,8.0,Kobo,Clara BW,2024,"+ Opening is quick and simple, and the battery is easy to access and secured with stretch-release adhesive.
++ Kobo provides official replacement parts and instructions for repairs.
+- Sticky waterproofing coats everything inside, guarding against liquid damage but complicating other repairs.
+- The USB-C port is soldered to the motherboard.",6,,1.9
+E-Readers,7.0,Nook,Glowlight 4,2023,"- The battery, page turn buttons, power button, and USB-C port are all soldered to the motherboard.
+- Display repairs require prying out and replacing the glued-in battery.
+- No official replacement parts or repair instructions are available.",0,,1.9
+E-Readers,6.0,Onyx Boox,Poke5,2023,"+ The battery is replaceable, sporting stretch-release adhesive and a friendly connector.
++ A modular microSD card slot supports expandable storage.
+- No official replacement parts or repair instructions are available.",5,,1.9
+E-Readers,5.0,Moann,InkPalm 5,2023,"+ The power and page turn buttons are both modular parts.
+- Display replacements seem impractical, requiring full disassembly, including prying out and replacing the glued-in battery.
+- No official replacement parts or repair instructions are available.",2,,1.9
+E-Readers,4.0,Amazon,Kindle (11th gen),2022,"+ The battery is replaceable, sporting stretch-release adhesive and a friendly connector.
+- The power button and USB-C port are soldered to the motherboard.
+- No official replacement parts or repair instructions are available.",3,,1.9
+E-Readers,3.0,Amazon,Paperwhite (11th gen),2021,"+ Getting inside with standard tools is very straightforward.
+- The battery and motherboard are both stubbornly glued in place. Display replacements seem impractical.
+- The USB-C port is soldered to the motherboard.
+- No official replacement parts or repair instructions are available.",2,,1.9
+E-Readers,2.0,Kobo,Sage,2021,"- Opening the device is likely a destructive process, requiring heat and a delicate hand.
+- The battery, page turn buttons, and USB-C port are all soldered to the motherboard. 
+- Strong adhesive secures the battery.
+- No official replacement parts or repair instructions are available.",0,,1.9
+E-Readers,1.0,PocketBook,InkPad Lite,2021,"+ The page turn buttons, power button, and USB-C port are all part of a replaceable daughterboard.
++ A modular microSD card slot supports expandable storage.
+- Display repairs require prying out and replacing the glued-in battery.
+- No official replacement parts or repair instructions are available.",4,,1.9
+Smartwatches,10.0,Samsung,Galaxy Watch7 Ultra,2024,"+ The back cover unscrews easily and is sealed with a reusable gasket—no adhesive mess.
++ The display and battery are both independently serviceable.
++ If recent history is any guide, Samsung will likely publish at least a partial service manual and make some spare parts available.
+- Exterior tri-point screws are an unnecessary repair hindrance.",7,Provisional,1.9
+Smartwatches,9.0,Google,Pixel Watch 2,2023,"+ Band is easily swappable.
+• Screws secure the battery, but replacement requires near total disassembly to access its connector.
+- Lack of screws or clips means that without custom cut adhesive, the watch can't be reliably reassembled after repair.
+- No official repair parts or instructions are available.",4,,1.9
+Smartwatches,8.0,Apple,Watch Series 9,2023,"+ The band is easily swappable, and screen and battery repairs are reasonably well prioritized.
+- The display must be tediously unglued, cleaned, and re-glued for every repair.
+- Apple does not offer any internal repair parts or instructions.",3,,1.9
+Smartwatches,7.0,Fitbit,Charge 6,2023,"+ Band is straightforward to replace.
+- Lack of screws or clips means that without custom cut adhesive, the watch can't be reliably reassembled after repair.
+- Specialty tools are required to pry up the display and get inside—a tedious and risky process.
+- No official replacement parts or repair instructions are available.",4,,1.9
+Smartwatches,6.0,Mobvoi,TicWatch Pro 5,2023,"+ Screws and clips hold the watch together, greatly simplifying both entry and reassembly.
++ The display and chassis are reasonably straightforward to replace together as a single assembly.
+- No official replacement parts or repair instructions are available.",5,,1.9
+Smartwatches,5.0,Google,Pixel Watch,2022,"""+ Band is easily swappable.
+• Screws secure the battery, but replacement requires near total disassembly to access its connector.
+- Lack of screws or clips means that without custom cut adhesive, the watch can't be reliably reassembled after repair.
+- No official repair parts or instructions are available.""",4,,1.9
+Smartwatches,4.0,Fitbit,Versa 4,2022,"+ The band is easily swapped out.
+- Lack of screws or clips means that without custom cut adhesive, the watch can't be reliably reassembled after repair.
+- Specialty tools are required to pry up the display and get inside—a tedious and risky process.
+- No official replacement parts or repair instructions are available.",4,,1.9
+Smartwatches,3.0,Apple,Watch Ultra,2022,"+ The band is easily swappable, and screen and battery repairs are reasonably well prioritized.
+- The display must be tediously unglued, cleaned, and re-glued for every repair.
+- Apple does not offer any internal repair parts or instructions.",4,,1.9
+Smartwatches,2.0,Samsung,Galaxy Watch 5,2022,"+ Screws and clips hold the watch together, greatly simplifying both entry and reassembly.
++ The display and chassis are reasonably straightforward to replace together as a single assembly.
+- No official replacement parts or repair instructions are available.",6,,1.9
+Smartwatches,1.0,Garmin,Venu Sq Music,2021,"+ The band at least can be easily swapped out.
+- Lack of screws or clips means that without custom cut adhesive, the watch can't be reliably reassembled after repair.
+- The battery is soldered in place, restricting service to skilled technicians.  
+- No official replacement parts or repair instructions are available.",3,,1.9
+Mini PCs,7.0,Beelink,Mini S13 (N150),2025,"+ Simple construction allows quick access to standard storage and memory modules—and only a Phillips screwdriver is needed for full disassembly.
+- All ports, the CPU, and the Wi-Fi module are soldered to the motherboard.
+- Besides for standard storage and memory, no replacement parts are available, and support documentation is limited.",8,,2.0
+Mini PCs,6.0,Apple,"Mac mini (M4, 2024)",2024,"+ Socketed storage chips, modular front ports, a serviceable fan, and straightforward entry all simplify repairs.
++ Apple provides a thorough service manual with repair procedures for all main components.
+- The M4 chip, memory, and rear ports are soldered to the logic board.",7,Provisional,2.0
+Mini PCs,5.0,Dell,OptiPlex 7090 Micro,2021,"+ A socketed processor facilitates easy troubleshooting and allows for some upgrade headroom.
++ A user-friendly design makes internal upgrades a breeze. 
++ A thorough service manual is available, with repair procedures for most main components.
+- Dell doesn’t offer replacement parts past the already-standard storage, memory, and CPU, available elsewhere.",9,,2.0
+Mini PCs,4.0,Intel,NUC 11 (PAHi3),2021,"+ Storage and memory replacements are simple, and both use standard interfaces.
++ Straightforward construction requires only a few common tools for nearly all repairs.
+- All ports, the CPU, and the Wi-Fi module are soldered to the motherboard.
+- No official replacement parts are offered, and support documentation is limited.",8,,2.0
+Mini PCs,3.0,Apple,"Mac mini (M1, 2020)",2020,"+ The fan is serviceable, and the power supply is both modular and protected.
++ Apple provides a thorough service manual with repair procedures for all main components.
+- The M1 chip, memory, storage, and ports are all soldered to the logic board.
+- Tight working conditions and security screws hamper some repairs.",5,,2.0
+Mini PCs,2.0,Lenovo,ThinkCentre M75q (Gen 2),2020,"+ A socketed processor facilitates easy troubleshooting and allows for some upgrade headroom.
++ A very user-friendly design encourages and expedites both upgrades and routine maintenance.
++ Lenovo sells a full suite of replacement parts and publishes a complete service manual with repair guides for all parts.",10,,2.0
+Mini PCs,1.0,ASUS,MiniPC PN50-B,2020,"+ Standard storage and memory are prioritized with easy access, and the Wi-Fi chip is socketed, supporting upgrades.
++ The MiniPC is simply constructed, requiring only a few common tools for nearly all repairs.
+- The stiff enclosure complicates motherboard removal, which in turn limits fan service.
+- Some replacement parts are available, but support documentation is limited.",7,,2.0
+Handheld Game Consoles,8.0,Nintendo,Switch 2,2025,"+ Joystick replacement is possible, but tougher than on the original Switch.
+- The battery and display are glued in place, and the charge ports are soldered to the main board.
+- Nintendo has yet to provide any repair instructions or replacement parts.",3,,2.1
+Handheld Game Consoles,7.0,Retroid,Pocket 5,2024,"+ The battery, thumbsticks, and fan are straightforward to replace, as are many of the buttons.
++ The display and front shell assembly can be replaced if you’re patient.
+- The storage and charge port are soldered to the main board.
+- Retroid does not provide repair parts or instructions.",6,,2.1
+Handheld Game Consoles,6.0,Valve,Steam Deck OLED,2023,"+ The opening procedure is simple and straightforward, and most components are modular and repairable.
++ Standard M.2 storage is user-replaceable and upgradeable.
++ Valve offers original replacement parts and repair instructions for end users.
+- The battery is strongly glued in place, and the charge port is soldered to the motherboard.",7,,2.1
+Handheld Game Consoles,5.0,Asus,ROG Ally,2023,"+ The battery, display, thumbsticks, fan, and storage are modular and straightforward to replace.
++ Asus provides a good selection of repair parts and instructions.
+- The charge port and most buttons are soldered to the main board.",7,,2.1
+Handheld Game Consoles,4.0,Valve,Steam Deck,2022,"+ The opening procedure is simple and straightforward, and most components are modular and repairable.
++ Standard M.2 storage is user-replaceable and upgradeable.
++ Valve offers original replacement parts and repair instructions for end users.
+- The battery is strongly glued in place, and the charge port is soldered to the motherboard.",7,,2.1
+Handheld Game Consoles,3.0,Nintendo,Switch OLED,2021,"+ The fan and thumbsticks are reasonably straightforward to access.
+- Strong adhesives hamper battery and display repairs, and the USB-C port is soldered to the main board.
+- Nintendo offers no repair parts or instructions.",4,,2.1
+Handheld Game Consoles,2.0,Nintendo,Switch Lite,2019,"+ The fan and thumbsticks are reasonably straightforward to access.
+- Strong adhesives hamper battery and display repairs, and the USB-C port is soldered to the main board.
+- Nintendo offers no repair parts or instructions.",3,,2.1
+Handheld Game Consoles,1.0,Nintendo,Switch,2017,"+ Many components are modular and replaceable: fan, digitizer, joysticks, game card reader, storage, etc.
+- The battery and display are glued down, and the USB-C port is soldered to the main board.
+- Nintendo offers no repair parts or instructions.",4,,2.1
+Portable Wireless Speakers,,Monster,S620,2025,"+ The large fabric cover provides a straightforward start to all repairs.
++ The battery, drivers, USB-C port, and buttons are all individually replaceable.
+- Hidden screws and adhesives complicate common repairs.
+- Monster does not offer repair manuals or spare parts.",6,,2.4
+Portable Wireless Speakers,,Anker,Soundcore Select 4 Go,2024,"+ Getting inside is straightforward, and all screws are Phillips.
++ The battery, speaker driver, and mainboard are all individually replaceable.
+- All buttons and the USB-C port are soldered to the mainboard, rendering replacements impractical.
+- Anker does not offer repair manuals or spare parts.",5,,2.4
+Portable Wireless Speakers,,Bose,Soundlink Flex 2,2024,"- Tough adhesive secures the metal speaker grille to the enclosure, requiring heat and lots of prying.
+- The battery, drivers, and USB-C port are all soldered to the mainboard.
+- Tiny, fragile, soldered-on buttons have a high chance of snapping off the mainboard during reassembly, bricking the speaker.
+- Bose does not offer repair manuals or spare parts.",0,,2.4
+Portable Wireless Speakers,,Marshall,Emberton III,2024,"+ A slip-on silicone sleeve and clever press-fit speaker grilles support simple, repeatable entry.
++ The battery, drivers, buttons, USB-C port, and mainboard are all modular.
+- Apart from sleeves and grilles, Marshall offers no repair parts or instructions.",7,,2.4
+Portable Wireless Speakers,,Logitech,UE Wonderboom 4,2024,"+ The mesh barrel enclosure is quick and straightforward to replace.
+- The driver connections are soldered to the main board.
+- Replacing the battery requires lots of disassembly.
+- Logitech support does not offer repair manuals or spare parts.",2,,2.4
+Portable Wireless Speakers,,JBL,Go 4,2024,"+ Getting inside is straightforward, and all screws are Phillips.
++ The battery, speaker driver, and mainboard are all individually replaceable.
+- All buttons and the USB-C port are soldered to the mainboard, rendering replacement impractical.
+- JBL does not offer repair manuals or spare parts.",5,,2.4
+Portable Wireless Speakers,,Sonos,Roam 2,2024,"- Over-reliance on adhesive makes disassembly and reassembly a chore.
+- All components require lots of disassembly for access. 
+- Sonos does not provide repair manuals or spare parts.",1,,2.4
+Portable Wireless Speakers,,JBL,Flip 6,2021,"+ The large fabric cover provides a straightforward start to all repairs.
++ Both speaker drivers unscrew and disconnect easily.
+- The battery and USB-C port, although not soldered in place, require substantial disassembly to remove.
+- Buttons are integrated with the chassis and are effectively inaccessible.
+- JBL does not offer repair manuals or spare parts.",4,,2.4
+Portable Wireless Speakers,,Bang & Olufsen,Beosound Explore,2021,"+ Disassembly is mostly straightforward and reversible.
++ Most components are modular and reasonably accessible.
+- The charge port is soldered to the main board, and a glued-on top cover hinders all repairs.
+- Bang & Olufsen does not offer repair manuals or spare parts.",4,,2.4
+Portable Wireless Speakers,,Sony,SRS-XB23,2020,"+ Disassembly is reversible if you’re careful, with only a little adhesive to slow you down.
+- Strong clips make the opening procedure a struggle.
+- Most components, including the battery, require extensive disassembly for access.
+- Sony does not offer repair manuals or spare parts.",3,,2.4
+Portable Wireless Speakers,,Anker,Soundcore 2,2017,"+ Disassembly is fairly reversible if you’re careful, and the driver enclosure is sealed with a gasket instead of adhesive.
+- Opening the device risks damage to the speaker grill.
+- The battery is strongly glued in, and the ports and buttons are soldered in place.
+- Anker does not offer repair manuals or spare parts.",1,,2.4

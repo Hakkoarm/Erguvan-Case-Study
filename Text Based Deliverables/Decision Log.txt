@@ -1,0 +1,11 @@
+## Decision Log: Assumptions, Trade-offs, and What I Would Do with More Time
+
+- **Product sampling and sorting:** I initially wanted to sort product pages by price rather than use the recommended sorting order (as I took random samples). However, since the relevant crawling restrictions in `robots.txt` did not permit this approach, I opted to sample pages at random while retaining the recommended sorting order.
+
+- **Expanding the ESG scope:** The analysis could be extended to cover the social and governance dimensions of ESG, particularly responsible e-waste disposal, downstream recycling traceability, worker safety, and other demonstrable good corporate practices.
+
+- **Project organization and workflow:** I could have maintained a more structured and organized workspace throughout the project. As this was my first large-scale independent project and time was limited, I had to work at a faster pace than I would have preferred, which sometimes came at the expense of organization.
+
+- **Scoring methodology and confidence assessment:** With more time, I would develop a more robust and defensible scoring methodology, supported by a more systematic confidence-scoring framework. This would help distinguish between verified findings, partial evidence, estimates, and cases where insufficient data is available. 
+
+- **Product matching and data coverage:** I believe found a substantial amount of EPD and product carbon footprint (PCF) data, as well as larger databases such as EPREL. However, due to my limited experience with product matching and differences in product availability, model identifiers, and regional variants, I was unable to match much of this information to the products listed on Teknosa. With more time, I would refine the matching process and investigate additional identifiers and regional product variants to improve data coverage and reliability. I believe I especially failed in matcing or finding relevant data for some of the products (i.e vacuum cleaners and headphones) but maybe they do not have as much data as.

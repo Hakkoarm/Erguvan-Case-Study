@@ -1,0 +1,8 @@
+﻿Brand,Category,Product_Count,Mean_CO2e_kg,Median_CO2e_kg,Min_CO2e_kg,Max_CO2e_kg
+Dell,Laptop,1,371.0,371.0,371.0,371.0
+HP,Laptop,18,184.44444444444446,185.0,175.0,185.0
+HP,Monitor,14,485.0,485.0,485.0,485.0
+Lenovo,Laptop,32,258.125,218.0,212.0,325.0
+Lenovo,Monitor,48,307.7083333333333,325.0,212.0,325.0
+MSI,Laptop,19,334.7368421052632,318.0,318.0,388.0
+MSI,Monitor,60,334.9,318.0,318.0,388.0
